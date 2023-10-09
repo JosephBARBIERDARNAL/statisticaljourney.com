@@ -1,3 +1,3 @@
-# Main page
+# Learning Curve
 
-This is the main page of the website.
+## 1. Introduction
