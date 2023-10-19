@@ -1,1 +1,11 @@
 theme: minima
+
+header_pages:
+  - name: About
+    url: /about/
+  - name: Articles
+    url: /articles/
+
+
+# Site settings
+title: Learning Curve

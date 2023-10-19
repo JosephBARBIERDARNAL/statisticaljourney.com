@@ -1,25 +1,9 @@
 ---
-title: title
+title: Home
 description: description
 show_description: true
 ---
 
 <br>
 
-# title first dolls
-
-## subtitle
-
-### subsubtitle
-
-#### subsubsubtitle
-
-```
-code
-```
-
-*italic*
-
-**bold**
-
-[link](About/about.md)
+# Home
