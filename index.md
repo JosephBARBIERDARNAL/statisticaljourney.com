@@ -13,3 +13,15 @@ show_description: true
 ### subsubtitle
 
 #### subsubsubtitle
+
+```
+code
+```
+
+*italic*
+
+**bold**
+
+[link](https://josephbarbier.com)
+
+![image](https://josephbarbier.com/assets/images/profile.jpg)
