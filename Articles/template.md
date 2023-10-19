@@ -1,12 +1,12 @@
 ---
-title: Portfolio
-description: my description
+title: title
+description: description
 show_description: true
 ---
 
 <br>
 
-# title first dolls
+# template
 
 ## subtitle
 
@@ -22,4 +22,4 @@ code
 
 **bold**
 
-[link](https://josephbarbier.com)
+[link](About/portfolio.md)
