@@ -22,4 +22,4 @@ code
 
 **bold**
 
-[link](portfolio.md)
+[link](portfolio/portfolio.md)
