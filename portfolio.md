@@ -1,6 +1,6 @@
 ---
-title: title
-description: description
+title: Portfolio
+description: my description
 show_description: true
 ---
 
@@ -22,4 +22,4 @@ code
 
 **bold**
 
-[link](portfolio.md)
+[link](https://josephbarbier.com)
