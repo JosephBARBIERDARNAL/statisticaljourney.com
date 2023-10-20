@@ -18,31 +18,42 @@ about maths and programming. The goal of these articles is to facilitate the wor
 those who need to understand and use data analysis tools as well as participate in the
 development of a culture of statistics.
 
+<br><br>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
+    <p style="font-size: 30px; font-weight: bold;">Joseph Barbier</p>
+</div>
+
+
+I'm really excited about **science and epistemology**. I love working in a technical environment
+and I'm interested in perhaps anything that has anything to do with knowledge. I am particularly interested in topics such as: how statistics
+allow us to make **inferences**, the impact of **large language models** and more generally data mining.
+In my remaining free time, I do sport, read and spend time with my friends. 
+
+
+I’m currently working as a **dataviz developer** for the [Python](https://python-graph-gallery.com) and [R](https://r-graph-gallery.com) Graph Galleries, in a **master’s program** in applied mathematics
+at Bordeaux University and working on various personal projects.
+
+<br><br>
+
+## Service
+
+I offer **data analysis** and **data visualization** services. I can help you to **understand your data** and
+create **beautiful visualizations**. Here are some examples of charts I made:
+
 <br>
 
-# Joseph Barbier
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <img src="../images/confidence.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
+    <img src="../images/erasmus.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
+    <img src="../images/fontana.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
+    <img src="../images/salaries.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
+    <img src="../images/america.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
+    <img src="../images/co2.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
+</div>
 
-<p align="center">
-<img src="joseph.png" alt="Joseph Barbier image" style="max-width:30%; height: auto;">
-</p>
-
-I'm really excited about **science and epistemology**. I love working in a technical environment,
-as well as more "conceptual" subjects like economics, finance or psychology. I am always
-motivated to work on interesting projects. 
-
-I’m currently working as a **dataviz developer**, in a **master’s program** in applied mathematics
-at Bordeaux University. With it, I try to make people feel the relevance of statistics (from the
-calculation of an average to artificial intelligence, through the philosophy of science), even for
-those who don't have a technical background.
-
-I also share readings on various subjects such as stats, economics, psychology, philosophy etc.
-I am particularly interested in topics such as: how statistics allow us to make inferences, the
-impact of large language models and more generally data mining. In my remaining free time, I do
-sport, read and spend time with my friends. 
-
-
-
-
+If that's something you're interested in, feel free to contact me at [joseph.barbierdarnal@gmail.com](joseph.barbierdarnal@gmail.com) and I'd be happy to discuss it with you.
 
 
 
