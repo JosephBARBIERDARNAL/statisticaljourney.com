@@ -22,7 +22,7 @@ development of a culture of statistics.
 
 # Joseph Barbier
 <p align="center">
-<img src="joseph.png" alt="Joseph Barbier image" style="max-width:30%; height: auto; object-position: center center;">
+<img src="joseph.png" alt="Joseph Barbier image" style="max-width:30%; height: auto;">
 </p>
 
 I'm really excited about **science and epistemology**. I love working in a technical environment,
