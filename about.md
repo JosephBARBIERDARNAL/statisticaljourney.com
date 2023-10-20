@@ -18,10 +18,10 @@ about maths and programming. The goal of these articles is to facilitate the wor
 those who need to understand and use data analysis tools as well as participate in the
 development of a culture of statistics.
 
-<br><br>
+<br><br> 
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
+    <img src="images/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
     <p style="font-size: 30px; font-weight: bold;">Joseph Barbier</p>
 </div>
 
@@ -35,7 +35,7 @@ In my remaining free time, I do sport, read and spend time with my friends.
 
 
 I’m currently working as a **dataviz developer** for the [Python](https://python-graph-gallery.com) and [R](https://r-graph-gallery.com) Graph Galleries, in a **master’s program** in applied mathematics
-at Bordeaux University and working on various [personal projects](projects.md). 
+at Bordeaux University and working on various [personal projects](About/projects.md). 
 
 <br><br>
 
@@ -51,12 +51,12 @@ at Bordeaux University and working on various [personal projects](projects.md).
 <br>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-    <img src="../images/confidence.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="../images/erasmus.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="../images/fontana.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="../images/salaries.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="../images/america.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="../images/co2.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="images/confidence.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="images/erasmus.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="images/fontana.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="images/salaries.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="images/america.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="images/co2.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
 </div>
 
 

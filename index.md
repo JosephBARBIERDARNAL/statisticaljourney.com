@@ -8,4 +8,4 @@ layout: default
 
 # Welcome to My Website
 
-[About page](About/about.md)
+[About page](about.md)
