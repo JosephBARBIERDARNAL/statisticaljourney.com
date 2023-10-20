@@ -62,7 +62,7 @@ at Bordeaux University and working on various [personal projects](About/projects
 
 <br>
 
-##### If that's something you're interested in, feel free to contact me at [joseph.barbierdarnal@gmail.com](joseph.barbierdarnal@gmail.com) and I'd be happy to discuss it with you.
+If that's something you're interested in, feel free to contact me at [joseph.barbierdarnal@gmail.com](joseph.barbierdarnal@gmail.com) and I'd be happy to discuss it with you.
 
 <br><br>
 
