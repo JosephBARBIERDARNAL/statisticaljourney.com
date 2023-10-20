@@ -53,7 +53,7 @@ create **beautiful visualizations**. Here are some examples of charts I made:
     <img src="../images/salaries.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
     <img src="../images/america.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
     <img src="../images/co2.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-</div>
+</div> 
 
 <br>
 
