@@ -60,8 +60,13 @@ create **beautiful visualizations**. Here are some examples of charts I made:
 
 If that's something you're interested in, feel free to contact me at [joseph.barbierdarnal@gmail.com](joseph.barbierdarnal@gmail.com) and I'd be happy to discuss it with you.
 
+<br><br>
 
-
+# Contact
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="64" height="64">](https://www.linkedin.com/in/joseph-barbier-4ab531224/) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="64" height="64">](https://github.com/JosephBARBIERDARNAL) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/665/665072.png" width="64" height="64">](mailto:joseph.barbierdarnal@gmail.com)
 
 
 
