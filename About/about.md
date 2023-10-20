@@ -21,8 +21,9 @@ development of a culture of statistics.
 <br>
 
 # Joseph Barbier
-
+<p align="center">
 <img src="joseph.png" alt="Joseph Barbier image" style="max-width:30%; height: auto; object-position: center center;">
+</p>
 
 I'm really excited about **science and epistemology**. I love working in a technical environment,
 as well as more "conceptual" subjects like economics, finance or psychology. I am always
