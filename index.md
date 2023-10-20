@@ -1,11 +1,9 @@
 ---
 title: Home
-description: description
 layout: default
 ---
 
 <br>
 
-# Welcome to My Website
+# Welcome to Learning Curve
 
-[About page](about.md)
