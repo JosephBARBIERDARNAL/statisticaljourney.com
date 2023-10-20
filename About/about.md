@@ -40,10 +40,10 @@ at Bordeaux University and working on various personal projects.
 <br><br>
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-left: 1px; font-size: 20px;">
+  <div style="flex: 1; margin-right: 100px; font-size: 20px;">
     <p>I offer <strong>data analysis</strong> and <strong>data visualization</strong> services. I can help you to <strong>understand your data</strong> and create <strong>beautiful visualizations</strong>. Here are some examples of charts I made:</p>
   </div>
-  <div style="font-size: 30px; font-weight: bold; margin-left: 10px;">Service</div>
+  <div style="font-size: 30px; font-weight: bold; margin-right: 80px;">Service</div>
 </div>
 
 
