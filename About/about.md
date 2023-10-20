@@ -25,6 +25,8 @@ development of a culture of statistics.
     <p style="font-size: 30px; font-weight: bold;">Joseph Barbier</p>
 </div>
 
+<br>
+
 
 I'm really excited about **science and epistemology**. I love working in a technical environment
 and I'm interested in perhaps anything that has anything to do with knowledge. I am particularly interested in topics such as: how statistics
@@ -37,7 +39,7 @@ at Bordeaux University and working on various personal projects.
 
 <br><br>
 
-## Service
+# Service
 
 I offer **data analysis** and **data visualization** services. I can help you to **understand your data** and
 create **beautiful visualizations**. Here are some examples of charts I made:
@@ -45,13 +47,15 @@ create **beautiful visualizations**. Here are some examples of charts I made:
 <br>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <img src="../images/confidence.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
-    <img src="../images/erasmus.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
-    <img src="../images/fontana.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
-    <img src="../images/salaries.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
-    <img src="../images/america.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
-    <img src="../images/co2.png" alt="Seaborn style" style="max-width: 30%; height: auto;">
+    <img src="../images/confidence.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="../images/erasmus.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="../images/fontana.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="../images/salaries.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="../images/america.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+    <img src="../images/co2.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
 </div>
+
+<br>
 
 If that's something you're interested in, feel free to contact me at [joseph.barbierdarnal@gmail.com](joseph.barbierdarnal@gmail.com) and I'd be happy to discuss it with you.
 
