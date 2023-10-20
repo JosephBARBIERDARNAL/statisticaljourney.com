@@ -1,5 +1,6 @@
 ---
 title: About
+layout: default
 ---
 
 <br>
@@ -20,19 +21,19 @@ development of a culture of statistics.
 <br>
 
 # Joseph Barbier
+
 <p align="center">
 <img src="joseph.png" alt="Joseph Barbier image" style="max-width:30%; height: auto;">
 </p>
-
 
 I'm really excited about **science and epistemology**. I love working in a technical environment,
 as well as more "conceptual" subjects like economics, finance or psychology. I am always
 motivated to work on interesting projects. 
 
 I’m currently working as a **dataviz developer**, in a **master’s program** in applied mathematics
-at Bordeaux University and running this website. With it, I try to make people feel the relevance
-of statistics (from the calculation of an average to artificial intelligence, through the philosophy
-of science), even for those who don't have a technical background.
+at Bordeaux University. With it, I try to make people feel the relevance of statistics (from the
+calculation of an average to artificial intelligence, through the philosophy of science), even for
+those who don't have a technical background.
 
 I also share readings on various subjects such as stats, economics, psychology, philosophy etc.
 I am particularly interested in topics such as: how statistics allow us to make inferences, the
