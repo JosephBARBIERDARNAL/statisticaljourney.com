@@ -35,7 +35,7 @@ In my remaining free time, I do sport, read and spend time with my friends.
 
 
 I’m currently working as a **dataviz developer** for the [Python](https://python-graph-gallery.com) and [R](https://r-graph-gallery.com) Graph Galleries, in a **master’s program** in applied mathematics
-at Bordeaux University and working on various personal projects.
+at Bordeaux University and working on various [personal projects](projects.md). 
 
 <br><br>
 
