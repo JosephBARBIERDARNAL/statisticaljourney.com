@@ -5,7 +5,7 @@ description: my description
 
 <br>
 
-# About Learning Curve
+# Learning Curve
 
 Whether in artificial intelligence, philosophy, social sciences, physics and probably
 many other fields, statistics are indispensable. I am convinced that statistics, in the
@@ -18,9 +18,15 @@ about maths and programming. The goal of these articles is to facilitate the wor
 those who need to understand and use data analysis tools as well as participate in the
 development of a culture of statistics.
 
-# Author: Joseph Barbier
+<br>
 
-Really excited about **science and epistemology**. I love working in a technical environment,
+# Joseph Barbier
+
+![Joseph Barbier image](joseph.png)
+
+<img src="joseph.png" alt="Joseph Barbier image" style="max-width: 100%; height: auto;">
+
+I'm really excited about **science and epistemology**. I love working in a technical environment,
 as well as more "conceptual" subjects like economics, finance or psychology. I am always
 motivated to work on interesting projects. 
 
