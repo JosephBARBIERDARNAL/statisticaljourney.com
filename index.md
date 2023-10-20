@@ -7,7 +7,9 @@ layout: default
 
 # Welcome to Learning Curve
 
-### Statistics in our daily life
+<br>
+
+## Statistics in our daily life
 
 Because stats might seem reserved only for some people, I want to give you the taste of how it feels to think like a statistician.
 
