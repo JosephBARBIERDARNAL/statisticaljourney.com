@@ -46,14 +46,15 @@ create **beautiful visualizations**. Here are some examples of charts I made:
 
 <br>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
     <img src="../images/confidence.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
     <img src="../images/erasmus.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
     <img src="../images/fontana.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
     <img src="../images/salaries.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
     <img src="../images/america.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
     <img src="../images/co2.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-</div> 
+</div>
+
 
 <br>
 
