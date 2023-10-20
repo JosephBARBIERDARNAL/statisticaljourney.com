@@ -1,7 +1,6 @@
 ---
 title: Home
 description: description
-layout: home
 ---
 
 <br>
