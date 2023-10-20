@@ -1,18 +1,8 @@
 theme: minima
 
-include:
-  - _layouts
-  - _sass
-  - _posts
-  - assets
-
-menu:
-  - title: About
-    url: /about
-  - title: Articles
-    url: /articles
-  - title: Home
-    url: /projects
+header_pages:
+  - index.md
+  - about.md
 
 # Site settings
 title: Learning Curve

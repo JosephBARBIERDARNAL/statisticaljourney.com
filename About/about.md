@@ -1,7 +1,6 @@
 ---
 title: About
-description: my description
-layout: base
+layout: page
 ---
 
 <br>
