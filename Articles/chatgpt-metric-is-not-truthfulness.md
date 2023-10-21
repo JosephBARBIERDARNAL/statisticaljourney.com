@@ -15,7 +15,7 @@ Language models such as ChatGPT, for a given prompt, try to predict which word i
 
 <br>
 
-# FOREWORD: HOW LLM WORKS?
+## FOREWORD: HOW LLM WORKS?
 
 If you are already familiar with the following concepts, you can skip this section because there will be nothing more: probability distribution, statistical model, machine learning, word embedding and fine tuning. It doesn't really matter if you don't understand everything. It is very complex and not necessary to understand the core of this article. 
 
