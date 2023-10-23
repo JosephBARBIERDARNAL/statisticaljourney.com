@@ -13,7 +13,7 @@ layout: default
 
     .image-container a {
         display: inline-block; /* Ensure the anchor takes up the space of the image */
-        margin: 15px;
+        margin: 20px;
         text-decoration: none; /* Remove underline for the link */
         text-align: center;
     }
@@ -116,45 +116,30 @@ layout: default
 
 <div class="image-container">
     <div>
-        <a href="https://example.com" target="_blank">
+        <a href="https://python-graph-gallery.com/web-line-chart-small-multiple/" target="_blank">
             <img src="images/confidence.png" alt="Seaborn style">
         </a>
-        <p class="image-title">Image 1 Description</p>
+        <p class="image-title">Evolution of consumer confidence in different countries</p>
     </div>
     <div>
-        <a href="https://example.com" target="_blank">
+        <a href="https://python-graph-gallery.com/web-ordered-mirror-barplot/" target="_blank">
             <img src="images/erasmus.png" alt="Seaborn style">
         </a>
-        <p class="image-title">Image 2 Description</p>
+        <p class="image-title">In and outgoing students in the Erasmus program</p>
     </div>
     <div>
-        <a href="https://example.com" target="_blank">
-            <img src="images/fontana.png" alt="Seaborn style">
-        </a>
-        <p class="image-title">Image 3 Description</p>
-    </div>
-    <div>
-        <a href="https://example.com" target="_blank">
-            <img src="images/salaries.png" alt="Seaborn style">
-        </a>
-        <p class="image-title">Image 4 Description</p>
-    </div>
-    <div>
-        <a href="https://example.com" target="_blank">
+        <a href="https://python-graph-gallery.com" target="_blank">
             <img src="images/america.png" alt="Seaborn style">
         </a>
-        <p class="image-title">Image 5 Description</p>
+        <p class="image-title">Proportion of vote in each party, in each American State</p>
     </div>
     <div>
-        <a href="https://example.com" target="_blank">
+        <a href="https://python-graph-gallery.com/web-bubble-plot-with-annotations-and-custom-features/" target="_blank">
             <img src="images/co2.png" alt="Seaborn style">
         </a>
-        <p class="image-title">Image 6 Description</p>
+        <p class="image-title">Relationship between vulnerability and readiness with CO2 emission per capita</p>
     </div>
 </div>
-
-
-
 
 <br>
 
@@ -163,7 +148,15 @@ layout: default
 
 <br><br><br>
 
-# Contact
+
+
+
+
+
+<div style="font-size: 30px; font-weight: bold;">Contact</div>
+
+***
+<br>
 
 <div class="logo-container">
     <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224">
