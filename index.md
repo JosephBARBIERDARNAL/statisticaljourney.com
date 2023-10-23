@@ -27,7 +27,7 @@ layout: default
             font-size: 20px; /* Adjust the subtext font size as desired */
             color: #888; /* Adjust the subtext color as desired */
         }
-    </style>
+</style>
 
 
 <br>
@@ -37,15 +37,17 @@ layout: default
 ***
 <br>
 
-<p style="font-size: 25px;">This website is currently under construction. I am working on it to make it available as soon as possible.</p>
-<p style="font-size: 25px;">For the moment, you can check the <a href="about.html">about page</a> to know more about me and this website. Below, you can find some articles that I wrote. Many have already been written and should be arriving soon!</p>
+<p style="font-size: 25px;">This website is currently <strong>under construction</strong>. I am working on it to make it available as soon as possible.</p>
+<p style="font-size: 25px;">For the moment, you can check the <a href="about.html">about page</a> to know more about me and this website. Below, you can find some articles that I wrote. Many others have already been written and should be arriving soon!</p>
 
 <br><br><br>
 
 <p style="font-size: 40px; font-weight: bold;">Articles</p>
 
 ***
-<br>
+<br><br>
+
+
 
 
 
@@ -57,26 +59,52 @@ layout: default
             <p>Statistics in our daily life</p>
                 <div class="subtext">
                     <p>Because stats might seem reserved only for some people, I want to give you the taste of how it feels to think like a statistician.</p>
-                    <p>Check out <a href="Articles/statistics-in-our-daily-life.md">Statistics in our daily life</a></p>
+                    <p>Check out <a href="Articles/statistics-in-our-daily-life.html">Statistics in our daily life</a></p>
                 </div>
         </div>
 </div><br>
 
 <br><br>
 
-## Be careful when doing statistics
 
-This article explains why every statistical calculation should be done for specific, well-defined reasons. In other words, you need to know why you are doing this test in this situation, why you are using this regression, what your calculations really mean, and more generally, why you’re doing what you’re doing.
 
-Check out [be careful when doing statistics](Articles/be-careful-when-doing-statistics.md) to see why you should be very careful when doing statistics.
+
+
+
+<div class="container">
+    <a href="Articles/be-careful-when-doing-statistics.html">
+        <img src="images/people5.png" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>Why you should be careful when doing statistics</p>
+                <div class="subtext">
+                    <p>This article explains why every statistical calculation should be done for specific, well-defined reasons. In other words, you need to know why you’re doing what you’re doing.</p>
+                    <p>Check out <a href="Articles/be-careful-when-doing-statistics.html">Be careful when you're doing statistics</a></p>
+                </div>
+        </div>
+</div><br>
 
 <br><br>
 
-## ChatGPT's metric is not truthfulness
 
-ChatGPT does not try to be right, is probably not the solution to your problem and is a good example of the current problem with large language models. Here's why you should be skeptical of its answers.
 
-Check out [ChatGPT's metric is not truthfulness](Articles/chatgpt-metric-is-not-truthfulness.md) to see why ChatGPT's metric is not truthfulness.
+
+
+
+<div class="container">
+    <a href="Articles/chatgpt-metric-is-not-truthfulness.html">
+        <img src="images/openai.svg" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>Why you should be careful when doing statistics</p>
+                <div class="subtext">
+                    <p>ChatGPT does not try to be right, is probably not the solution to your problem and is a good example of the current problem with large language models.</p>
+                    <p>Check out <a href="Articles/chatgpt-metric-is-not-truthfulness.html">ChatGPT's metric is not truthfulness</a></p>
+                </div>
+        </div>
+</div><br>
+
+<br><br>
 
 
 
