@@ -28,6 +28,11 @@ layout: default
         transform: scale(1.1);
     }
 
+    .image-title {
+        font-style: italic; /* Set the font style to italic */
+        text-align: center;
+    }
+
     .logo-container {
       text-align: center;
     }
@@ -47,7 +52,7 @@ layout: default
 
 <br>
 
-<p style="font-size: 60px; font-weight: bold;">Statistical Journey</p>
+<p style="font-size: 40px; font-weight: bold;">What is the Statistical Journey?</p>
 
 ***
 <br>
@@ -110,26 +115,43 @@ layout: default
 <br>
 
 <div class="image-container">
-    <a href="https://example.com" target="_blank">
-        <img src="images/confidence.png" alt="Seaborn style">
-    </a>
-    <a href="https://example.com" target="_blank">
-        <img src="images/erasmus.png" alt="Seaborn style">
-    </a>
-    <a href="https://example.com" target="_blank">
-        <img src="images/fontana.png" alt="Seaborn style">
-    </a>
-    <a href="https://example.com" target="_blank">
-        <img src="images/salaries.png" alt="Seaborn style">
-    </a>
-    <a href="https://example.com" target="_blank">
-        <img src="images/america.png" alt="Seaborn style">
-    </a>
-    <a href="https://example.com" target="_blank">
-        <img src="images/co2.png" alt="Seaborn style">
-    </a>
+    <div>
+        <a href="https://example.com" target="_blank">
+            <img src="images/confidence.png" alt="Seaborn style">
+        </a>
+        <p class="image-title">Image 1 Description</p>
+    </div>
+    <div>
+        <a href="https://example.com" target="_blank">
+            <img src="images/erasmus.png" alt="Seaborn style">
+        </a>
+        <p class="image-title">Image 2 Description</p>
+    </div>
+    <div>
+        <a href="https://example.com" target="_blank">
+            <img src="images/fontana.png" alt="Seaborn style">
+        </a>
+        <p class="image-title">Image 3 Description</p>
+    </div>
+    <div>
+        <a href="https://example.com" target="_blank">
+            <img src="images/salaries.png" alt="Seaborn style">
+        </a>
+        <p class="image-title">Image 4 Description</p>
+    </div>
+    <div>
+        <a href="https://example.com" target="_blank">
+            <img src="images/america.png" alt="Seaborn style">
+        </a>
+        <p class="image-title">Image 5 Description</p>
+    </div>
+    <div>
+        <a href="https://example.com" target="_blank">
+            <img src="images/co2.png" alt="Seaborn style">
+        </a>
+        <p class="image-title">Image 6 Description</p>
+    </div>
 </div>
-
 
 
 
