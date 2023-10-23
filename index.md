@@ -5,21 +5,24 @@ layout: default
 
 <br>
 
-# Welcome to Learning Curve
+# Statistical Journey
 
-This website is currently **under construction**. I am working on it to make it as useful as possible.
+This website is currently **under construction**. I am working on it to make it available as soon as possible.
 
 For the moment, you can check the [about page](about.md) to know more about me and this website. Below, you can find some articles that I wrote. Many have already been written and should be arriving soon!
 
-<br>
+<br><br>
 
-## Statistics in our daily life
+<div style="display: flex; align-items: center;">
+    <img src="images/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
+    <p style="font-size: 30px; font-weight: bold;">Statistics in our daily life</p>
+</div>
 
 Because stats might seem reserved only for some people, I want to give you the taste of how it feels to think like a statistician.
 
 Check out [statistics in our daily life](Articles/statistics-in-our-daily-life.md) to see how statistics can be used in our daily life.
 
-<br>
+<br><br>
 
 ## Be careful when doing statistics
 
@@ -27,7 +30,7 @@ This article explains why every statistical calculation should be done for speci
 
 Check out [be careful when doing statistics](Articles/be-careful-when-doing-statistics.md) to see why you should be very careful when doing statistics.
 
-<br>
+<br><br>
 
 ## ChatGPT's metric is not truthfulness
 
@@ -35,3 +38,9 @@ ChatGPT does not try to be right, is probably not the solution to your problem a
 
 Check out [ChatGPT's metric is not truthfulness](Articles/chatgpt-metric-is-not-truthfulness.md) to see why ChatGPT's metric is not truthfulness.
 
+<br><br><br>
+
+<footer style="background-color: #f5f5f5; color: #fff; text-align: center; padding: 20px 0; font-family: Tahoma;">
+    <p>&copy; 2023 Joseph Barbier</p>
+    <p class="quote" style="font-style: italic;">Statistical Journey</p>
+</footer>
