@@ -19,7 +19,7 @@ layout: default
     <img src="../images/maurice1.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
 </div> <br>
 
-<p style="font-size: 23px;">On the occasion of a <b>photo exhibition</b> at the French Institute in Berlin, Maurice Lebrun and I created a staging that allows us to talk with the late Douanier Rousseau. Maurice is a French photographer who has been working on creating photos inspired by the Douanier Rousseau's paintings. <br>We met by chance, and he told me he'd like it to be possible to <b>talk to Henri Rousseau</b> during his exhibition. It was more difficult than we expected, but the result is great!</p>
+<p style="font-size: 23px;">On the occasion of a <b>photo exhibition</b> at the French Institute in Berlin, Maurice Lebrun and I created a staging that allows us to talk with the late Douanier Rousseau. Maurice is a French photographer who has been working on creating photos inspired by the Douanier Rousseau's paintings. <br><br>We met by chance, and he told me he'd like it to be possible to <b>talk to Henri Rousseau</b> during his exhibition. It was more difficult than we expected, but the result is great!</p>
 
 <div style="display: flex; align-items: center;">
     <img src="../images/maurice2.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
