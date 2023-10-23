@@ -81,7 +81,7 @@ layout: default
 
 <div style="display: flex; align-items: center;">
     <img src="images/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
-    <p style="font-size: 30px; font-weight: bold;">Joseph Barbier</p>
+    <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
 </div>
 
 <br>
