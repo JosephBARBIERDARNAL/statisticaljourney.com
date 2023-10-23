@@ -29,7 +29,12 @@ layout: default
 
 *Images are from Maurice Lebrun*
 
-<br><br>
+<br><br><br>
+
+
+
+
+
 
 <p style="font-size: 40px; font-weight: bold;">NLP web application</p>
 
@@ -38,7 +43,7 @@ layout: default
 
 <iframe src="https://no-code-nlp.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe><br>
 
-<p style="font-size: 23px;">I've created a Streamlit web application that automates a lot of different **NLP tasks**. With it, you can:
+<p style="font-size: 23px;">I've created a Streamlit web application that automates a lot of different <b>NLP tasks</b>. With it, you can:
     <ul style="font-size: 23px;">
         <li>Apply sentiment analysis to a text</li>
         <li>Create wordclouds</li>
@@ -46,10 +51,14 @@ layout: default
         <li>Measure similarity between two texts</li>
     </ul>
 
+<br><br><br>
 
 
 
-<br><br>
+
+
+
+
 
 <p style="font-size: 40px; font-weight: bold;">Fun recipe generator</p>
 
@@ -59,10 +68,9 @@ layout: default
 <iframe src="https://recipe-generator-josephbarbier.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe>
 
 
-I've created a recipe generator that uses **OpenAI API** to generate recipes and images of it.
 
-If you don't know what to **cook** and want to have a **laugh**, you can try it out!
-
+<p style="font-size: 23px;">I've created a recipe generator that uses <b>OpenAI API</b> to generate recipes and images of it.<br><br>If you don't know what to <b>cook</b> and want to have a <b>laugh</b>, you can try it out!
+</p>
 
 
 
