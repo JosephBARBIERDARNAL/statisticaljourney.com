@@ -38,14 +38,14 @@ layout: default
 <br>
 
 <p style="font-size: 25px;">This website is currently under construction. I am working on it to make it available as soon as possible.</p>
-<p style="font-size: 25px;">For the moment, you can check the <a href="about.md">about page</a> to know more about me and this website. Below, you can find some articles that I wrote. Many have already been written and should be arriving soon!</p>
+<p style="font-size: 25px;">For the moment, you can check the <a href="about.html">about page</a> to know more about me and this website. Below, you can find some articles that I wrote. Many have already been written and should be arriving soon!</p>
 
 <br><br><br>
 
 
 
 <div class="container">
-    <a href="Articles/statistics-in-our-daily-life.md">
+    <a href="Articles/statistics-in-our-daily-life.html">
         <img src="images/people1.png" alt="Image" class="image">
     </a>
         <div class="text">
