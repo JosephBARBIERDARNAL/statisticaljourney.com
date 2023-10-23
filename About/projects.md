@@ -5,15 +5,15 @@ layout: default
 
 <br>
 
-# Projects
+<p style="font-size: 60px; font-weight: bold;">Personal projects</p>
+<p style="font-size: 25px;">You can find here some of my projects that I've done for fun or to learn new things.</p>
 
-You can find here some of my projects. I've tried to make them as diverse as possible, so you can see what I'm capable of. I've also tried to make them as fun as possible, so you can enjoy them!
-
-<br>
+<br><br>
 
 <p style="font-size: 40px; font-weight: bold;">Vocal assistant for an exposure in Berlin</p>
 
 ***
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="../images/maurice1.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
@@ -21,7 +21,7 @@ You can find here some of my projects. I've tried to make them as diverse as pos
 
 On the occasion of a **photo exhibition** at the French Institute in Berlin, Maurice Lebrun and I created a staging that allows us to talk with the late Douanier Rousseau. Maurice is a French photographer who has been working on creating photos inspired by the Douanier Rousseau's paintings.
 
-We met by chance, and he told me he'd like it to be possible to **talk to Henri Rousseau** during his exhibition. It was more difficult than expected, but the result is great!
+We met by chance, and he told me he'd like it to be possible to **talk to Henri Rousseau** during his exhibition. It was more difficult than we expected, but the result is great!
 
 <div style="display: flex; align-items: center;">
     <img src="../images/maurice2.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
