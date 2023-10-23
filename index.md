@@ -3,24 +3,59 @@ title: Home
 layout: default
 ---
 
+<style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+
+        .image {
+            max-width: 250px;
+            transition: transform 0.3s;
+        }
+
+        .image:hover {
+            transform: scale(1.1);
+        }
+
+        .text {
+            margin-left: 50px;
+            font-size: 30px; /* Adjust the font size as desired */
+            font-weight: bold; /* Make the text bold */
+        }
+        .subtext {
+            font-size: 20px; /* Adjust the subtext font size as desired */
+            color: #888; /* Adjust the subtext color as desired */
+        }
+    </style>
+
+
 <br>
 
-# Statistical Journey
+<p style="font-size: 60px; font-weight: bold;">Statistical Journey</p>
 
-This website is currently **under construction**. I am working on it to make it available as soon as possible.
+***
+<br>
 
-For the moment, you can check the [about page](about.md) to know more about me and this website. Below, you can find some articles that I wrote. Many have already been written and should be arriving soon!
+<p style="font-size: 25px;">This website is currently under construction. I am working on it to make it available as soon as possible.</p>
+<p style="font-size: 25px;">For the moment, you can check the <a href="about.md">about page</a> to know more about me and this website. Below, you can find some articles that I wrote. Many have already been written and should be arriving soon!</p>
 
-<br><br>
+<br><br><br>
 
-<div style="display: flex; align-items: center;">
-    <img src="images/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
-    <p style="font-size: 30px; font-weight: bold;">Statistics in our daily life</p>
-</div>
 
-Because stats might seem reserved only for some people, I want to give you the taste of how it feels to think like a statistician.
 
-Check out [statistics in our daily life](Articles/statistics-in-our-daily-life.md) to see how statistics can be used in our daily life.
+<div class="container">
+    <a href="Articles/statistics-in-our-daily-life.md">
+        <img src="images/people1.png" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>Statistics in our daily life</p>
+                <div class="subtext">
+                    <p>Because stats might seem reserved only for some people, I want to give you the taste of how it feels to think like a statistician.</p>
+                    <p>Check out <a href="Articles/statistics-in-our-daily-life.md">Statistics in our daily life</a></p>
+                </div>
+        </div>
+</div><br>
 
 <br><br>
 
