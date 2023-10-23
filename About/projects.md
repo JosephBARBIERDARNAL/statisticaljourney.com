@@ -47,10 +47,6 @@ With it, you can:
 - Use regular expressions to find specific elements in a text
 - Measure similarity between two texts
 
-<div style="display: flex; align-items: center;">
-    <img src="../images/nlp1.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
-</div>
-
 <br><br>
 
 <p style="font-size: 40px; font-weight: bold;">Fun recipe generator</p>
