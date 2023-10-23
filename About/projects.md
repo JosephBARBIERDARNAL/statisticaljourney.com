@@ -31,11 +31,9 @@ In concrete terms, we've created a relatively simple architecture, "connecting" 
 
 ## NLP web application
 
-I've created a Streamlit web application that automates a lot of different NLP tasks. It's available at [this adress](https://no-code-nlp.streamlit.app).
+I've created a Streamlit web application that automates a lot of different NLP tasks.
 
-<div style="display: flex; align-items: center;">
-    <img src="../images/nlp1.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
-</div>
+<iframe src="https://no-code-nlp.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe>
 
 With it, you can:
 - Apply sentiment analysis to a text
@@ -43,25 +41,20 @@ With it, you can:
 - Use regular expressions to find specific elements in a text
 - Measure similarity between two texts
 
+<div style="display: flex; align-items: center;">
+    <img src="../images/nlp1.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
+</div>
+
 <br><br>
 
 ## Fun recipe generator
 
-I've created a recipe generator that uses **OpenAI API** to generate recipes and images of it. It's available at [this adress](https://recipe-generator-josephbarbier.streamlit.app).
+I've created a recipe generator that uses **OpenAI API** to generate recipes and images of it.
 
-<div style="display: flex; align-items: center;">
-    <img src="../images/recipe1.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
-</div>
+<iframe src="https://recipe-generator-josephbarbier.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe>
 
 If you don't know what to **cook** and want to have a **laugh**, you can try it out!
 
-<div style="display: flex; align-items: center;">
-    <img src="../images/recipe2.png" alt="Joseph Barbier image" style="max-width:100%; height: auto; margin-right: 30px;">
-</div>
-
-
-
-<iframe src="https://30days.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe>
 
 
 
@@ -69,9 +62,4 @@ If you don't know what to **cook** and want to have a **laugh**, you can try it 
 
 
 
-<br><br><br>
-
-<footer style="background-color: #f5f5f5; color: #fff; text-align: center; padding: 20px 0; font-family: Tahoma;">
-    <p>&copy; 2023 Joseph Barbier</p>
-    <p class="quote" style="font-style: italic;">Statistical Journey</p>
-</footer>
+<br><br>

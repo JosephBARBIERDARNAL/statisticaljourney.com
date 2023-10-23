@@ -38,9 +38,15 @@ ChatGPT does not try to be right, is probably not the solution to your problem a
 
 Check out [ChatGPT's metric is not truthfulness](Articles/chatgpt-metric-is-not-truthfulness.md) to see why ChatGPT's metric is not truthfulness.
 
-<br><br><br>
 
-<footer style="background-color: #f5f5f5; color: #fff; text-align: center; padding: 20px 0; font-family: Tahoma;">
-    <p>&copy; 2023 Joseph Barbier</p>
-    <p class="quote" style="font-style: italic;">Statistical Journey</p>
-</footer>
+
+
+
+
+
+
+
+
+
+
+<br><br>
