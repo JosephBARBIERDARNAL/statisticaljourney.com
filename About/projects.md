@@ -65,7 +65,7 @@ layout: default
 ***
 <br>
 
-<iframe src="https://recipe-generator-josephbarbier.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe><br>
+<iframe src="https://recipe-generator-josephbarbier.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe><br><br>
 
 <p style="font-size: 23px;">I've created a recipe generator that uses <b>OpenAI API</b> to generate recipes and images of it.<br><br>If you don't know what to <b>cook</b> and want to have a <b>laugh</b>, you can try it out!</p>
 
