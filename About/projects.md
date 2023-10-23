@@ -36,13 +36,18 @@ layout: default
 ***
 <br>
 
-<iframe src="https://no-code-nlp.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe>
+<iframe src="https://no-code-nlp.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe><br>
 
-I've created a Streamlit web application that automates a lot of different **NLP tasks**. With it, you can:
-- Apply sentiment analysis to a text
-- Create wordclouds
-- Use regular expressions to find specific elements in a text
-- Measure similarity between two texts
+<p style="font-size: 23px;">I've created a Streamlit web application that automates a lot of different **NLP tasks**. With it, you can:
+    <ul style="font-size: 23px;">
+        <li>Apply sentiment analysis to a text</li>
+        <li>Create wordclouds</li>
+        <li>Use regular expressions to find specific elements in a text</li>
+        <li>Measure similarity between two texts</li>
+    </ul>
+
+
+
 
 <br><br>
 
