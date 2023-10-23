@@ -3,6 +3,48 @@ title: About
 layout: default
 ---
 
+<style>
+    .image-container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .image-container a {
+        display: inline-block; /* Ensure the anchor takes up the space of the image */
+        margin: 15px;
+        text-decoration: none; /* Remove underline for the link */
+        text-align: center;
+    }
+
+    .image-container img {
+        max-width: 60%;
+        height: auto;
+        transition: transform 0.3s;
+    }
+
+    .image-container img:hover {
+        transform: scale(1.1);
+    }
+
+    .logo-container {
+      text-align: center;
+    }
+
+    .logo-container a {
+      margin: 20px; /* Add space around each logo */
+      display: inline-block; /* Ensure the margin works correctly */
+    }
+</style>
+
+
+
+
+
+
+
+
 <br>
 
 <p style="font-size: 60px; font-weight: bold;">Statistical Journey</p>
@@ -56,25 +98,40 @@ layout: default
 
 <br><br><br>
 
-<div style="display: flex; justify-content: space-between;">
-<div style="font-size: 30px; font-weight: bold; margin-left: 10px;">Service</div>
-  <div style="flex: 1; margin-left: 100px; font-size: 20px;">
-    <p style="font-size: 23px;">I offer <strong>data analysis</strong> and <strong>data visualization</strong> services. I can help you to <strong>understand your data</strong> and create <strong>beautiful visualizations</strong>. Here are some examples of charts I made:</p>
-  </div>
-</div>
+<div style="font-size: 30px; font-weight: bold;">Service</div>
+
+***
+<br>
+
+<p style="font-size: 23px;">I offer <strong>data analysis</strong> and <strong>data visualization</strong> services. I can help you to <strong>understand your data</strong> and create <strong>beautiful visualizations</strong>. Here are some examples of charts I made:</p>
 
 
 
 <br>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-    <img src="images/confidence.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="images/erasmus.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="images/fontana.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="images/salaries.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="images/america.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
-    <img src="images/co2.png" alt="Seaborn style" style="max-width: 50%; height: auto;">
+<div class="image-container">
+    <a href="https://example.com" target="_blank">
+        <img src="images/confidence.png" alt="Seaborn style">
+    </a>
+    <a href="https://example.com" target="_blank">
+        <img src="images/erasmus.png" alt="Seaborn style">
+    </a>
+    <a href="https://example.com" target="_blank">
+        <img src="images/fontana.png" alt="Seaborn style">
+    </a>
+    <a href="https://example.com" target="_blank">
+        <img src="images/salaries.png" alt="Seaborn style">
+    </a>
+    <a href="https://example.com" target="_blank">
+        <img src="images/america.png" alt="Seaborn style">
+    </a>
+    <a href="https://example.com" target="_blank">
+        <img src="images/co2.png" alt="Seaborn style">
+    </a>
 </div>
+
+
+
 
 
 <br>
@@ -85,11 +142,18 @@ layout: default
 <br><br><br>
 
 # Contact
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
-[<img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="64" height="64">](https://www.linkedin.com/in/joseph-barbier-4ab531224/) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="64" height="64">](https://github.com/JosephBARBIERDARNAL) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/665/665072.png" width="64" height="64">](mailto:joseph.barbierdarnal@gmail.com)
+
+<div class="logo-container">
+    <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224">
+      <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="64" height="64">
+    </a>
+    <a href="https://github.com/JosephBARBIERDARNAL">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="64" height="64">
+    </a>
+    <a href="mailto:joseph.barbierdarnal@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/665/665072.png" width="64" height="64">
+    </a>
+  </div>
 
 
 
