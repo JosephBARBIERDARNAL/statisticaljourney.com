@@ -96,7 +96,7 @@ layout: default
         <img src="images/openai.svg" alt="Image" class="image">
     </a>
         <div class="text">
-            <p>Why you should be careful when doing statistics</p>
+            <p>ChatGPT's metric is not truthfulness</p>
                 <div class="subtext">
                     <p>ChatGPT does not try to be right, is probably not the solution to your problem and is a good example of the current problem with large language models.</p>
                     <p>Check out <a href="Articles/chatgpt-metric-is-not-truthfulness.html">ChatGPT's metric is not truthfulness</a></p>
