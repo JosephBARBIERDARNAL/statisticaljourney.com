@@ -2,6 +2,73 @@
 title: Projects
 layout: default
 ---
+<style>
+
+footer {
+    background-color: #f5f5f5;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+footer:hover {
+    background-color: #f5f5f5;
+}
+
+a {
+    color: #9c4444;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #f11e1e;
+}
+
+a::after {
+    font-size: 1.5em;
+    margin-right: 5px;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.icon-link {
+    color: #fff;
+    font-size: 24px;
+    margin: 0 15px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.icon-link:hover {
+    color: #ecf3f9;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.social-links a {
+    margin: 0 15px;
+}
+
+.social-links img {
+    width: 40px;
+    height: 40px;
+}
+
+</style>
 
 <br>
 
@@ -75,4 +142,15 @@ layout: default
 
 
 
-<br><br>
+<br><br><br>
+
+<footer>
+    <div class="footer-content">
+        <p><strong>Created by <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224/">Joseph Barbier</a></strong><br>Feel free to send me any feedback or suggestions!</p>
+        <p></p>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="LinkedIn"></a>
+                <a href="https://github.com/JosephBARBIERDARNAL" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"></a>
+            </div>
+    </div>
+</footer>
