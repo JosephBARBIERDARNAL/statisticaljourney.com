@@ -144,13 +144,3 @@ a::after {
 
 <br><br><br>
 
-<footer>
-    <div class="footer-content">
-        <p><strong>Created by <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224/">Joseph Barbier</a></strong><br>Feel free to send me any feedback or suggestions!</p>
-        <p></p>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" alt="LinkedIn"></a>
-                <a href="https://github.com/JosephBARBIERDARNAL" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub"></a>
-            </div>
-    </div>
-</footer>
