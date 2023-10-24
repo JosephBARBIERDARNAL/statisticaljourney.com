@@ -53,7 +53,7 @@ layout: default
 
 <div class="container">
     <a href="Articles/statistics-in-our-daily-life.html">
-        <img src="images/people1.png" alt="Image" class="image">
+        <img src="images/people11.png" alt="Image" class="image">
     </a>
         <div class="text">
             <p>Statistics in our daily life</p>
@@ -73,7 +73,7 @@ layout: default
 
 <div class="container">
     <a href="Articles/be-careful-when-doing-statistics.html">
-        <img src="images/people5.png" alt="Image" class="image">
+        <img src="images/people9.png" alt="Image" class="image">
     </a>
         <div class="text">
             <p>Why you should be careful when doing statistics</p>
