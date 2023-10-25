@@ -111,6 +111,26 @@ layout: default
 
 
 
+<div class="container">
+    <a href="Articles/how-self-study-statistics.html">
+        <img src="images/people10.png" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>How to self-study statistics (without it being boring)?</p>
+                <div class="subtext">
+                    <p>A short guide that explains some tips for learning statistics and making sure it's not boring. Do you have to do math? Should you read books? Start a project?</p>
+                    <p>Check out <a href="Articles/how-self-study-statistics.html">How to self-study statistics</a></p>
+                </div>
+        </div>
+</div><br>
+
+<br><br>
+
+
+
+
+
+
 
 
 
