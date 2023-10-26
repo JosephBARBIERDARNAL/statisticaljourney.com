@@ -132,6 +132,28 @@ layout: default
 
 
 
+<div class="container">
+    <a href="Articles/impact-of-transformer-architectures.html">
+        <img src="images/transformer.webp" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>Impact of the transformer architecture
+</p>
+                <div class="subtext">
+                    <p>The original paper associated with the transformer architecture has had a major impact on technical innovation. However, these models cannot be interpreted, yet they are deployed on a large scale.</p>
+                    <p>Check out <a href="Articles/impact-of-transformer-architectures.html">Impact of the transformer architecture</a></p>
+                </div>
+        </div>
+</div><br>
+
+<br><br>
+
+
+
+
+
+
+
 
 
 
