@@ -2,6 +2,7 @@ theme: minima
 
 header_pages:
   - index.md
+  - tutorial.md
   - about.md
 
 title: Statistical Journey
