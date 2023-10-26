@@ -137,11 +137,31 @@ layout: default
         <img src="images/transformer.webp" alt="Image" class="image">
     </a>
         <div class="text">
-            <p>Impact of the transformer architecture
-</p>
+            <p>Impact of the transformer architecture</p>
                 <div class="subtext">
                     <p>The original paper associated with the transformer architecture has had a major impact on technical innovation. However, these models cannot be interpreted, yet they are deployed on a large scale.</p>
                     <p>Check out <a href="Articles/impact-of-transformer-architectures.html">Impact of the transformer architecture</a></p>
+                </div>
+        </div>
+</div><br>
+
+<br><br>
+
+
+
+
+
+
+
+<div class="container">
+    <a href="Articles/its-not-even-correlation.html">
+        <img src="images/people12.png" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>It's not even correlation</p>
+                <div class="subtext">
+                    <p>It's important to focus on differences rather than similarities, and not to rely on self-reported data, as individuals may not really understand the reasons for their own success.</p>
+                    <p>Check out <a href="Articles/its-not-even-correlation.html">It's not even correlation</a></p>
                 </div>
         </div>
 </div><br>
