@@ -94,7 +94,7 @@ layout: default
 </p>
 
 <p style="font-size: 23px;">
-    I’m currently working as a <strong>dataviz developer</strong> for the <a href="https://python-graph-gallery.com">Python</a>
+    I’m currently working part-time as a <strong>dataviz developer</strong> for the <a href="https://python-graph-gallery.com">Python</a>
     and <a href="https://r-graph-gallery.com">R</a> Graph Galleries, in a <strong>master’s program</strong> in applied mathematics at Bordeaux University
     and working on various <a href="About/projects.html">personal projects</a>.
 </p>
