@@ -1,5 +1,5 @@
 ---
-title: Statistics in our daily life
+title: Be careful when doing statistics
 layout: default
 ---
 

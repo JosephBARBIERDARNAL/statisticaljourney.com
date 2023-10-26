@@ -1,5 +1,5 @@
 ---
-title: How to self-study statistics
+title: Impact of the transformer architecture
 layout: default
 ---
 
