@@ -5,11 +5,11 @@ layout: default
 
 <br>
 
-# Brief description
+## Brief description
 
 The Frisch–Waugh–Lovell (FWL) theorem allows us to reduce a multivariate regression analysis to an univariate one. The main idea behind is the fact that there are mutliple ways to estimate a $\beta_1$ coefficient in the following regression model: $y_i = \beta_1x_i^1 + \beta_2x_i^2 + \varepsilon_i$. The main idea behind this is to use the residuals of the regression of $x^1$ on $x^2$ as the regressor of $y$.
 
-# Let's see it in practice
+## Let's see it in practice
 
 In order to give the intuition of what's going on, we will start with a concrete example:
 
@@ -104,11 +104,11 @@ Wow there all the same! You can see that we have reduced a multivariate regressi
 
 What happened is that we isole the variation of $x1$ that is orthogonal from $x2$. Put another way, when computing the residuals from regressing $x1$ on $x2$, we **keep only the variation of $x1$ that is unexplained by $x2$**. 
 
-# Why do we care about this theorem?
+## Why do we care about this theorem?
 
 First, I find it pretty fun to discover things like that, especially when the results are this precise. More seriously, this theorem, even if it seems very theoretical, has quite concrete applications: data visualization, computationnal speed and for specific inferences. As I am not particularly knowledgeable about this, I refer you to an article (check references at the end) which gives precise leads and sources. 
 
-# Proof of the theorem
+## Proof of the theorem
 
 If you're still here it means that you are ready to go through the demonstration, which is not very funny. It's far from being a very difficult demonstration but I personnaly had to do it several times before fully understand what was happening. 
 
@@ -193,7 +193,7 @@ As you have seen, the demonstration goes in all directions and is not easy to fo
 
 I hope this has helped you if you are trying to understand this theorem better.
 
-# References
+## References
 
 *Why Linear Regression is a Projection* (2017), Vladimir Mikulik
 
