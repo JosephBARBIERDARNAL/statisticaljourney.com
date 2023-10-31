@@ -33,6 +33,15 @@ layout: default
             font-size: 20px; /* Adjust the subtext font size as desired */
             color: #888; /* Adjust the subtext color as desired */
         }
+        a {
+            color: orange;
+            text-decoration: none; 
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #b53e2c;
+            text-decoration: none;
+        }
 </style>
 
 <br>
@@ -57,26 +66,26 @@ layout: default
         <div class="paragraph">
             <a href="https://example.com">
                 <div class="image-container">
-                    <img src="img/hist_tutosection.png" alt="Image 1">
+                    <img src="img/hist_tutosection.png" alt="stats">
                 </div>
-            </a>
-            <p>Statistics</p>
+            </a><br>
+            <p><a href="tutorials/statistics.html">Statistics</a></p>
         </div>
         <div class="paragraph">
             <a href="https://example.com">
                 <div class="image-container">
-                    <img src="img/hist_tutosection.png" alt="Image 2">
+                    <img src="img/hist_tutosection.png" alt="prog">
                 </div>
-            </a>
-            <p>Programming</p>
+            </a><br>
+            <p><a href="tutorials/programming.html">Programming</a></p>
         </div>
         <div class="paragraph">
             <a href="https://example.com">
                 <div class="image-container">
-                    <img src="img/hist_tutosection.png" alt="Image 3">
+                    <img src="img/hist_tutosection.png" alt="data">
                 </div>
-            </a>
-            <p>Data</p>
+            </a><br>
+            <p><a href="tutorials/data.html">Data</a></p>
         </div>
     </div>
 
