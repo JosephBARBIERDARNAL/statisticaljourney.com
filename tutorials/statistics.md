@@ -41,11 +41,13 @@ layout: default
 <br>
 
 <p style="font-size: 60px; font-weight: bold;">Statistics</p>
-<p style="font-size: 25px;">If you really want to understand a statistical concept, tool or method, it's very difficult to do without mathematics. For this reason, most of the tutorials you'll find here are posts about math. If your problem is broader, take a look at the <a href="../tutorial.html">tutorials section</a>.</p>
 
 ***
-<br><br>
+<br>
 
+<p style="font-size: 25px;">If you really want to understand a statistical concept, tool or method, it's very difficult to do without mathematics. For this reason, most of the tutorials you'll find here are posts about math. If your problem is broader, take a look at the <a href="../tutorial.html">tutorials section</a>.</p>
+
+<br><br><br>
 
 
 <div class="container">
