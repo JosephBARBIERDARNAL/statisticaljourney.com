@@ -67,7 +67,7 @@ layout: default
         <div class="paragraph">
             <a href="tutorials/statistics.html">
                 <div class="image-container">
-                    <img src="img/olsestimator.png" alt="stats">
+                    <img src="img/neuralnetwork.png" alt="stats">
                 </div>
             </a><br>
             <p><a href="tutorials/statistics.html"><strong>Statistics</strong></a></p>
