@@ -41,6 +41,15 @@ layout: default
       margin: 20px; /* Add space around each logo */
       display: inline-block; /* Ensure the margin works correctly */
     }
+    a {
+            color: #4a029c;
+            text-decoration: none; 
+            transition: color 0.3s;
+    }
+    a:hover {
+            color: #b53e2c;
+            text-decoration: none;
+        }
 </style>
 
 

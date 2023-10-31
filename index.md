@@ -27,6 +27,15 @@ layout: default
             font-size: 20px; /* Adjust the subtext font size as desired */
             color: #888; /* Adjust the subtext color as desired */
         }
+        a {
+            color: #4a029c;
+            text-decoration: none; 
+            transition: color 0.3s;
+        }
+        a:hover {
+            color: #b53e2c;
+            text-decoration: none;
+        }
 </style>
 
 

@@ -37,6 +37,7 @@ layout: default
             color: #4a029c;
             text-decoration: none; 
             transition: color 0.3s;
+            font-size: 20px;            
         }
         a:hover {
             color: #b53e2c;
@@ -64,29 +65,44 @@ layout: default
 
 <div class="container">
         <div class="paragraph">
-            <a href="https://example.com">
+            <a href="tutorials/statistics.html">
                 <div class="image-container">
-                    <img src="img/hist_tutosection.png" alt="stats">
+                    <img src="img/olsestimator.png" alt="stats">
                 </div>
             </a><br>
-            <p><a href="tutorials/statistics.html">Statistics</a></p>
+            <p><a href="tutorials/statistics.html"><strong>Statistics</strong></a></p>
         </div>
         <div class="paragraph">
-            <a href="https://example.com">
+            <a href="tutorials/programming.html">
                 <div class="image-container">
-                    <img src="img/hist_tutosection.png" alt="prog">
+                    <img src="img/terminal.png" alt="prog">
                 </div>
             </a><br>
-            <p><a href="tutorials/programming.html">Programming</a></p>
+            <p><a href="tutorials/programming.html"><strong>Programming</strong></a></p>
         </div>
         <div class="paragraph">
-            <a href="https://example.com">
+            <a href="tutorials/data.html">
                 <div class="image-container">
-                    <img src="img/hist_tutosection.png" alt="data">
+                    <img src="img/cloud.png" alt="data">
                 </div>
             </a><br>
-            <p><a href="tutorials/data.html">Data</a></p>
+            <p><a href="tutorials/data.html"><strong>Data</strong></a></p>
         </div>
     </div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
