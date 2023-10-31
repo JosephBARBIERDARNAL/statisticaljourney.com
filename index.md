@@ -173,6 +173,47 @@ layout: default
 
 
 
+<div class="container">
+    <a href="Articles/make-stats-say-things-they-dont.html">
+        <img src="images/people13.png" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>The public statistics trade-off</p>
+                <div class="subtext">
+                    <p>Can we really make statistics say anything we want? It’s a common belief to think that numbers and stats, put the right way, can say anything we want. However, I will try to explain why people think (wrongly) that we can manipulate stats as we want.</p>
+                    <p>Check out <a href="Articles/make-stats-say-things-they-dont.html">The public statistics trade-off</a></p>
+                </div>
+        </div>
+</div><br>
+
+<br><br>
+
+
+
+
+
+
+
+<div class="container">
+    <a href="Articles/regrets-of-chatgpt.html">
+        <img src="images/people14.png" alt="Image" class="image">
+    </a>
+        <div class="text">
+            <p>Does chatGPT regret what it says?</p>
+                <div class="subtext">
+                    <p>Can we really make statistics say anything we want? It’s a common belief to think that numbers and stats, put the right way, can say anything we want. However, I will try to explain why people think (wrongly) that we can manipulate stats as we want.</p>
+                    <p>Check out <a href="Articles/regrets-of-chatgpt.html">chatGPT regret what it says</a></p>
+                </div>
+        </div>
+</div><br>
+
+<br><br>
+
+
+
+
+
+
 
 
 
