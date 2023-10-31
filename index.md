@@ -201,7 +201,7 @@ layout: default
         <div class="text">
             <p>Does chatGPT regret what it says?</p>
                 <div class="subtext">
-                    <p>Can we really make statistics say anything we want? It’s a common belief to think that numbers and stats, put the right way, can say anything we want. However, I will try to explain why people think (wrongly) that we can manipulate stats as we want.</p>
+                    <p>The way chatGPT was built suggests that when it’s starting to answer a prompt, it's unlikely to suddenly change direction along the way.</p>
                     <p>Check out <a href="posts/regrets-of-chatgpt.html">chatGPT regret what it says</a></p>
                 </div>
         </div>
