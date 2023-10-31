@@ -34,7 +34,7 @@ layout: default
             color: #888; /* Adjust the subtext color as desired */
         }
         a {
-            color: orange;
+            color: #4a029c;
             text-decoration: none; 
             transition: color 0.3s;
         }
