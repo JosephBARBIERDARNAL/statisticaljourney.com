@@ -51,7 +51,7 @@ layout: default
 
 
 <div class="container">
-    <a href="tutorials/Frisch-Waugh-Lovell.html">
+    <a href="Frisch-Waugh-Lovell.html">
         <img src="../img/frisch.png" alt="Image" class="image">
     </a>
         <div class="text">
@@ -67,7 +67,7 @@ layout: default
 
 
 <div class="container">
-    <a href="posts/Equivalence-Pearson-OLS.html">
+    <a href="Equivalence-Pearson-OLS.html">
         <img src="../img/pearson.png" alt="Image" class="image">
     </a>
         <div class="text">
