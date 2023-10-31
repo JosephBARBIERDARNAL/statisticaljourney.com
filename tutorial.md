@@ -99,10 +99,4 @@ layout: default
 
 
 
-
-
-
-
-
-
 <br><br><br>
