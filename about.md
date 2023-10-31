@@ -80,7 +80,7 @@ layout: default
 
 
 <div style="display: flex; align-items: center;">
-    <img src="images/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
+    <img src="img/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
     <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
 </div>
 
@@ -117,25 +117,25 @@ layout: default
 <div class="image-container">
     <div>
         <a href="https://python-graph-gallery.com/web-line-chart-small-multiple/" target="_blank">
-            <img src="images/confidence.png" alt="Seaborn style">
+            <img src="img/confidence.png" alt="Seaborn style">
         </a>
         <p class="image-title">Evolution of consumer confidence in different countries</p>
     </div>
     <div>
         <a href="https://python-graph-gallery.com/web-ordered-mirror-barplot/" target="_blank">
-            <img src="images/erasmus.png" alt="Seaborn style">
+            <img src="img/erasmus.png" alt="Seaborn style">
         </a>
         <p class="image-title">In and outgoing students in the Erasmus program</p>
     </div>
     <div>
         <a href="https://python-graph-gallery.com" target="_blank">
-            <img src="images/america.png" alt="Seaborn style">
+            <img src="img/america.png" alt="Seaborn style">
         </a>
         <p class="image-title">Proportion of vote in each party, in each American State</p>
     </div>
     <div>
         <a href="https://python-graph-gallery.com/web-bubble-plot-with-annotations-and-custom-features/" target="_blank">
-            <img src="images/co2.png" alt="Seaborn style">
+            <img src="img/co2.png" alt="Seaborn style">
         </a>
         <p class="image-title">Relationship between vulnerability and readiness with CO2 emission per capita</p>
     </div>

@@ -47,17 +47,17 @@ layout: default
 <br><br>
 
 <p style="font-size: 30px; font-weight: bold;">Programming</p>
-<p style="font-size: 25px;">You'll find here all tutorials related to <a href="Tutorials/programming.html">programming</a>.</p>
+<p style="font-size: 25px;">You'll find here all tutorials related to <a href="tutorials/programming.html">programming</a>.</p>
 <br><br>
 
 
 
 <p style="font-size: 30px; font-weight: bold;">Statistics</p>
-<p style="font-size: 25px;">You'll find here all tutorials related to <a href="Tutorials/statistics.html">statistics</a>.</p>
+<p style="font-size: 25px;">You'll find here all tutorials related to <a href="tutorials/statistics.html">statistics</a>.</p>
 <br><br>
 
 
 
 <p style="font-size: 30px; font-weight: bold;">Data</p>
-<p style="font-size: 25px;">You'll find here all tutorials related to <a href="Tutorials/data.html">data</a>.</p>
+<p style="font-size: 25px;">You'll find here all tutorials related to <a href="tutorials/data.html">data</a>.</p>
 <br><br>

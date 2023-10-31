@@ -84,7 +84,7 @@ In our minds, it might look like this: the more you read and do sport, the more 
 <div class="image-container">
     <div>
         <a href="https://python-graph-gallery.com/web-line-chart-small-multiple/" target="_blank">
-            <img src="../images/correlation1.png" alt="Seaborn style">
+            <img src="../img/correlation1.png" alt="Seaborn style">
         </a>
     </div>
 </div>
@@ -94,7 +94,7 @@ Now if we only look at successful people, the graph looks like this:
 <div class="image-container">
     <div>
         <a href="https://python-graph-gallery.com/web-line-chart-small-multiple/" target="_blank">
-            <img src="../images/correlation2.png" alt="Seaborn style">
+            <img src="../img/correlation2.png" alt="Seaborn style">
         </a>
     </div>
 </div>
@@ -110,7 +110,7 @@ What's more, by only focusing on successful people, we forget that reality could
 <div class="image-container">
     <div>
         <a href="https://python-graph-gallery.com/web-line-chart-small-multiple/" target="_blank">
-            <img src="../images/correlation3.png" alt="Seaborn style">
+            <img src="../img/correlation3.png" alt="Seaborn style">
         </a>
     </div>
 </div>
