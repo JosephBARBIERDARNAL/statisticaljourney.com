@@ -6,15 +6,21 @@ layout: default
 <style>
         .container {
             display: flex;
+            justify-content: space-around;
             align-items: center;
         }
 
-        .image {
-            max-width: 250px;
+        .paragraph {
+            text-align: center;
+            flex: 1;
+            margin: 10px;
+        }
+
+        .image-container {
             transition: transform 0.3s;
         }
 
-        .image:hover {
+        .image-container:hover {
             transform: scale(1.1);
         }
 
@@ -46,18 +52,32 @@ layout: default
 ***
 <br><br>
 
-<p style="font-size: 30px; font-weight: bold;">Programming</p>
-<p style="font-size: 25px;">You'll find here all tutorials related to <a href="tutorials/programming.html">programming</a>.</p>
-<br><br>
+
+<div class="container">
+        <div class="paragraph">
+            <a href="https://example.com">
+                <div class="image-container">
+                    <img src="img/hist_tutosection.png" alt="Image 1">
+                </div>
+            </a>
+            <p>Statistics</p>
+        </div>
+        <div class="paragraph">
+            <a href="https://example.com">
+                <div class="image-container">
+                    <img src="img/hist_tutosection.png" alt="Image 2">
+                </div>
+            </a>
+            <p>Programming</p>
+        </div>
+        <div class="paragraph">
+            <a href="https://example.com">
+                <div class="image-container">
+                    <img src="img/hist_tutosection.png" alt="Image 3">
+                </div>
+            </a>
+            <p>Data</p>
+        </div>
+    </div>
 
 
-
-<p style="font-size: 30px; font-weight: bold;">Statistics</p>
-<p style="font-size: 25px;">You'll find here all tutorials related to <a href="tutorials/statistics.html">statistics</a>.</p>
-<br><br>
-
-
-
-<p style="font-size: 30px; font-weight: bold;">Data</p>
-<p style="font-size: 25px;">You'll find here all tutorials related to <a href="tutorials/data.html">data</a>.</p>
-<br><br>
