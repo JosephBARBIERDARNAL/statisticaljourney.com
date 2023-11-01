@@ -1,6 +1,7 @@
 ---
 title: Statistics in our daily life
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 <br>

@@ -1,6 +1,7 @@
 ---
 title: Can we really make statistics say anything we want? The public statistics trade-off
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 <br>

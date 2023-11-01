@@ -1,6 +1,7 @@
 ---
 title: How to self-study statistics
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 <br>

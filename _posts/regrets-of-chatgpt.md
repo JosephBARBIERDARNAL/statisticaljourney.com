@@ -1,6 +1,7 @@
 ---
 title: Does chatGPT regret what it says?
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 

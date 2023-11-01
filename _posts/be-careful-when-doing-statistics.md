@@ -1,6 +1,7 @@
 ---
 title: Be careful when doing statistics
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 <br>

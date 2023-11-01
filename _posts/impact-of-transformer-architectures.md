@@ -1,6 +1,7 @@
 ---
 title: Impact of the transformer architecture
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 <br>

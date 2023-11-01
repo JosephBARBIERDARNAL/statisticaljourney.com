@@ -1,6 +1,7 @@
 ---
 title: It's not even correlation
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 <style>

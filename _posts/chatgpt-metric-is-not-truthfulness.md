@@ -1,6 +1,7 @@
 ---
 title: ChatGPT’s metric is not truthfulness
-layout: default
+author: Joseph Barbier
+layout: post
 ---
 
 
