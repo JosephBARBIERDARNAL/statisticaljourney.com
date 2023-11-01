@@ -5,6 +5,5 @@ description: A blog about statistics and epistemology
 theme: minima
 header_pages:
   - index.md
-  - tutorial.md
   - about.md
 
