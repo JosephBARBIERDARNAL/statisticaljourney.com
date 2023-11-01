@@ -2,6 +2,7 @@
 .idea
 /_layouts
 /_includes
+/tutorials
 
 .DS_Store
 .Rdata
