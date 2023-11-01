@@ -10,7 +10,7 @@ title: Tutorial
             align-items: center;
         }
 
-        .paragraph {
+        .paragraphs {
             text-align: center;
             flex: 1;
             margin: 10px;
@@ -64,7 +64,7 @@ title: Tutorial
 
 
 <div class="container">
-        <div class="paragraph">
+        <div class="paragraphs">
             <a href="tutorials/statistics.html">
                 <div class="image-container">
                     <img src="img/neuralnetwork.png" alt="stats">
@@ -72,7 +72,7 @@ title: Tutorial
             </a><br>
             <p><a href="tutorials/statistics.html"><strong>Statistics</strong></a></p>
         </div>
-        <div class="paragraph">
+        <div class="paragraphs">
             <a href="tutorials/programming.html">
                 <div class="image-container">
                     <img src="img/terminal.png" alt="prog">
@@ -80,7 +80,7 @@ title: Tutorial
             </a><br>
             <p><a href="tutorials/programming.html"><strong>Programming</strong></a></p>
         </div>
-        <div class="paragraph">
+        <div class="paragraphs">
             <a href="tutorials/data.html">
                 <div class="image-container">
                     <img src="img/cloud.png" alt="data">
