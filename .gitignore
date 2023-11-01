@@ -1,4 +1,7 @@
 /venv
 .idea
 /_layouts
+.Rdata
+.Rhistory
+tutorials/*_files
 tutorials/*.Rmd
