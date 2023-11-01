@@ -55,7 +55,7 @@ layout: default
         <img src="../img/openai.svg" alt="Image" class="image">
     </a>
         <div class="text">
-            <p>How to use OpenAI API</p>
+            <p>How to use OpenAI API with Python</p>
                 <div class="subtext">
                     <p>Simple explanation of how to use text completion with ChatGPT and image generation with Dalle</p>
                 </div>
