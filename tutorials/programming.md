@@ -45,38 +45,24 @@ layout: default
 ***
 <br>
 
-<p style="font-size: 25px;">Programming plays an important role in the technical world. The posts here cover mainly Python and R programming. If your problem is broader, take a look at the <a href="../tutorial.html">tutorials section</a>.</p>
+<p style="font-size: 25px;">Programming plays an important role in the technical world. The posts here cover mainly Python and R programming. If your problem is broader, take a look at the <a href="../../tutorial.html">tutorials section</a>.</p>
 
 <br><br><br>
 
 
 <div class="container">
-    <a href="Frisch-Waugh-Lovell.html">
-        <img src="../img/frisch.png" alt="Image" class="image">
+    <a href="programming/openAI-API-tuto.html">
+        <img src="../img/openai.svg" alt="Image" class="image">
     </a>
         <div class="text">
-            <p>Frisch-Waugh-Lovell theorem</p>
+            <p>How to use OpenAI API</p>
                 <div class="subtext">
-                    <p>Intuition, example, application and demonstration</p>
+                    <p>Simple explanation of how to use text completion with ChatGPT and image generation with Dalle</p>
                 </div>
         </div>
 </div><br>
 
 
-
-
-
-<div class="container">
-    <a href="Equivalence-Pearson-OLS.html">
-        <img src="../img/pearson.png" alt="Image" class="image">
-    </a>
-        <div class="text">
-            <p>Correlation coefficent VS linear regression</p>
-                <div class="subtext">
-                    <p>Equivalence between Pearson correlation coefficient and OLS estimator</p>
-                </div>
-        </div>
-</div><br>
 
 
 

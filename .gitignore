@@ -1,6 +1,7 @@
 /venv
 .idea
 /_layouts
+.DS_Store
 .Rdata
 .Rhistory
 tutorials/*_files

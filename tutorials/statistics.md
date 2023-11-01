@@ -45,13 +45,13 @@ layout: default
 ***
 <br>
 
-<p style="font-size: 25px;">If you really want to understand a statistical concept, tool or method, it's very difficult to do without mathematics. For this reason, most of the tutorials you'll find here are posts about math. If your problem is broader, take a look at the <a href="../tutorial.html">tutorials section</a>.</p>
+<p style="font-size: 25px;">If you really want to understand a statistical concept, tool or method, it's very difficult to do without mathematics. For this reason, most of the tutorials you'll find here are posts about math. If your problem is broader, take a look at the <a href="../../tutorial.html">tutorials section</a>.</p>
 
 <br><br><br>
 
 
 <div class="container">
-    <a href="Frisch-Waugh-Lovell.html">
+    <a href="statistics/Frisch-Waugh-Lovell.html">
         <img src="../img/frisch.png" alt="Image" class="image">
     </a>
         <div class="text">
@@ -67,7 +67,7 @@ layout: default
 
 
 <div class="container">
-    <a href="Equivalence-Pearson-OLS.html">
+    <a href="statistics/Equivalence-Pearson-OLS.html">
         <img src="../img/pearson.png" alt="Image" class="image">
     </a>
         <div class="text">
