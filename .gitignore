@@ -7,4 +7,4 @@
 .Rdata
 .Rhistory
 tutorials/*_files
-tutorials/*.Rmd
+*.Rmd
