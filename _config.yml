@@ -1,10 +1,11 @@
-theme: minima
+title: Statistical Journey
+description: A blog about statistics and epistemology
 
+theme: minima
 header_pages:
   - index.md
   - tutorial.md
   - about.md
-
-title: Statistical Journey
-
-description: A blog about statistics and epistemology
+social_links:
+  - { platform: github,          user_url: "https://github.com/JosephBARBIERDARNAL" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/joseph-barbier-4ab531224/" }
