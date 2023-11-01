@@ -3,6 +3,7 @@
 /_layouts
 /_includes
 /tutorials
+tutorial.md
 
 .DS_Store
 .Rdata
