@@ -81,7 +81,7 @@ a::after {
 
 <p style="font-size: 40px; font-weight: bold;">Vocal assistant for an exposure in Berlin</p>
 
-***
+<hr>
 <br>
 
 <div style="display: flex; align-items: center;">
@@ -107,7 +107,7 @@ a::after {
 
 <p style="font-size: 40px; font-weight: bold;">Natural Language Processing web application</p>
 
-***
+<hr>
 <br>
 
 <iframe src="https://no-code-nlp.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe><br>
@@ -131,10 +131,7 @@ a::after {
 
 <p style="font-size: 40px; font-weight: bold;">Fun recipe generator</p>
 
-
-***
-
-
+<hr>
 <br>
 
 <iframe src="https://recipe-generator-josephbarbier.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe><br><br>
@@ -148,7 +145,7 @@ a::after {
 
 <p style="font-size: 40px; font-weight: bold;">A website to learn about statistics</p>
 
-***
+<hr>
 <br>
 
 <p style="font-size: 23px;">I've created a website to learn about statistics, for everyone. It's called <a href="https://statisticaljourney.com">Statistical Journey</a> and you are currently on it!</p> 
@@ -162,7 +159,7 @@ a::after {
 
 <p style="font-size: 40px; font-weight: bold;">University projects</p>
 
-***
+<hr>
 <br>
 
 <p style="font-size: 23px;">I've done lots of projects during my studies. I put my favorites here.</p><br>
