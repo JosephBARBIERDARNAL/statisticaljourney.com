@@ -131,7 +131,10 @@ a::after {
 
 <p style="font-size: 40px; font-weight: bold;">Fun recipe generator</p>
 
+
 ***
+
+
 <br>
 
 <iframe src="https://recipe-generator-josephbarbier.streamlit.app/?embed=true" height="450" style="width:100%;border:none;"></iframe><br><br>
