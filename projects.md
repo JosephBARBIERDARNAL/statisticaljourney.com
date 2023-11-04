@@ -66,6 +66,9 @@ a::after {
     width: 40px;
     height: 40px;
 }
+.center-image {
+    text-align: center;
+}
 
 </style>
 
@@ -164,13 +167,19 @@ a::after {
     <ul style="font-size: 23px;">
         <li><strong>Cleaning and analysis of research papers</strong>, all done with R in my <i>Introduction to R programmig</i> course. Final rendering can be found <a href="https://github.com/JosephBARBIERDARNAL/Code-iref-1semester/blob/main/R-project.R">here</a>.</li>
         <strong>Keywords</strong>: R, natural language processing, regular expressions, data cleaning<br><br>
-        <img src="img/code2.png" alt="Image" class="image"><br><br><br>
+        <div class="center-image">
+            <img src="img/code2.png" alt="Image" class="image">
+        </div><br><br><br>
         <li><strong>Database cleaning automation</strong>, with Python for my <i>Data processing tools</i> course. With a fellow student, we've created a web app to clean up the <a href="https://share-eric.eu">SHARE</a> database (Europe's largest social science study). </li>
         <strong>Keywords</strong>: python, streamlit, missing values and outliers management, UI/UX<br><br>
-        <img src="https://share-eric.eu/Resources/Public/Images/share-eric-logo.svg" alt="Image" class="image"><br><br><br>
+        <div class="center-image">
+            <img src="https://share-eric.eu/Resources/Public/Images/share-eric-logo.svg" alt="Image" class="image">
+        </div><br><br><br>
         <li><strong>Handling a major missing values problem</strong>, in partnership with Caisse des Dépôts et Consignations, for my <i>Big data</i> course. Our approach used text similarity methods to associate the semantically closest values with the missing ones.</li>
         <strong>Keywords</strong>: python, natural language processing, text similarity, missing values management<br><br>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKtOzA7fiu9cTak-4Vg6G85h-tpJsFW8L17IapiIdDMT9SG4EC2q-klBTgnZ5Mwpl1ew&usqp=CAU" alt="Image" class="image"><br><br><br>
+        <div class="center-image">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKtOzA7fiu9cTak-4Vg6G85h-tpJsFW8L17IapiIdDMT9SG4EC2q-klBTgnZ5Mwpl1ew&usqp=CAU" alt="Image" class="image">
+        </div><br><br><br>
     </ul>
 
 
