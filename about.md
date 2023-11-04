@@ -93,6 +93,8 @@ title: About
     <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
 </div>
 
+***
+
 <br>
 
 <p style="font-size: 23px;">
@@ -152,7 +154,7 @@ title: About
 
 <br>
 
-<p style="font-size: 23px;">If that's something you're interested in, feel free to contact me at joseph.barbierdarnal@gmail.com and I'd be happy to discuss it with you.</p>
+<p style="font-size: 23px;">If that's something you're interested in, feel free to contact me at <a href="joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a> and I'd be happy to discuss it with you.</p>
 
 
 <br><br><br>
