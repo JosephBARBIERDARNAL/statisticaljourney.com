@@ -20,7 +20,7 @@ title: About
     body {
         background: linear-gradient(270deg, #cec8ef, #f0f8ff, #cec8ef);
         background-size: 200% 200%;
-        animation: backgroundShift 20s ease infinite;
+        animation: backgroundShift 30s ease infinite;
     }
     .image-container img {
         max-width: 60%;
