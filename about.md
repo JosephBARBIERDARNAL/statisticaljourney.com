@@ -109,7 +109,7 @@ title: About
 </div><br>
 
 <div class="neumorphic-card">
-        <p class="typing-effect">Hi! I'm Joseph, working in data, especially in viz and stats.
+        <p class="typing-effect">Hi! I'm Joseph, working in data, especially in viz and stats.</p>
 </div>
 
 ***
