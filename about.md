@@ -62,10 +62,6 @@ title: About
 </style>
 
 
-<body>
-
-
-
 
 
 <br>
@@ -191,11 +187,6 @@ title: About
   </div>
 
 
-
-
-
-
-</body>
 
 
 
