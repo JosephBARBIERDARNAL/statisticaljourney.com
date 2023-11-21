@@ -102,8 +102,6 @@ title: About
     <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
 </div><br>
 
-<p>Hi! I'm Joseph, working in data, especially in viz and stats.</p>
-
 ***
 
 <br>
