@@ -50,6 +50,21 @@ title: About
             color: #b53e2c;
             text-decoration: none;
         }
+    .neumorphic-card {
+            background: #e0e5ec;
+            border-radius: 15px;
+            box-shadow: 8px 8px 15px #a7aaaf, -8px -8px 15px #ffffff;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+    .typing-effect {
+            font-size: 1.5em;
+            color: #333;
+            border-right: 2px solid;
+            white-space: nowrap;
+            overflow: hidden;
+            animation: typing 4s steps(30, end), blink-caret .5s step-end infinite alternate;
+        }
 </style>
 
 
@@ -92,6 +107,10 @@ title: About
     <img src="img/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
     <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
 </div><br>
+
+<div class="neumorphic-card">
+        <p class="typing-effect">Hi! I'm Joseph, working in data, especially in viz and stats.
+</div>
 
 ***
 
