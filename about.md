@@ -18,9 +18,9 @@ title: About
         text-align: center;
     }
     body {
-        background: linear-gradient(270deg, #ffe1e1, #f0f8ff, #ffe1e1);
+        background: linear-gradient(270deg, #cec8ef, #f0f8ff, #cec8ef);
         background-size: 200% 200%;
-        animation: backgroundShift 15s ease infinite;
+        animation: backgroundShift 20s ease infinite;
     }
     .image-container img {
         max-width: 60%;
@@ -80,8 +80,7 @@ title: About
 </p>
 
 <p style="font-size: 23px;">
-    On this website I decided to put non-technical articles about statistics and tutorials
-    about maths and programming. The goal of these articles is to facilitate the work of
+    On this website I decided to put non-technical articles about statistics, in the broadest possible sense. The goal of these articles is to facilitate the work of
     those who need to understand and use data analysis tools as well as participate in the
     development of a culture of statistics.
 </p>
