@@ -18,7 +18,7 @@ title: About
         text-align: center;
     }
     body {
-        background: linear-gradient(270deg, #Ebf6f9, #FFFFFF, #Ebf6f9);
+        background: linear-gradient(270deg, #ffe1e1, #f0f8ff, #ffe1e1);
         background-size: 200% 200%;
         animation: backgroundShift 15s ease infinite;
     }
