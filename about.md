@@ -50,21 +50,27 @@ title: About
             color: #b53e2c;
             text-decoration: none;
         }
-    .neumorphic-card {
-            background: #e0e5ec;
-            border-radius: 15px;
-            box-shadow: 8px 8px 15px #a7aaaf, -8px -8px 15px #ffffff;
-            padding: 20px;
-            margin-bottom: 20px;
+    .hi-sentence {
+        font-size: 24px; /* Adjust the font size */
+        font-weight: bold; /* Make it bold */
+        color: #1a1a1a; /* Set a dark color */
+        background-image: linear-gradient(45deg, #6e45e2, #88d3ce); /* Gradient background */
+        -webkit-background-clip: text; /* Clip the background to the text (for webkit browsers) */
+        background-clip: text; /* Clip the background to the text */
+        color: transparent; /* Make the text color transparent to show the background */
+        animation: rainbow-text-animation 5s ease-in-out infinite; /* Add an animation */
+        display: inline; /* Make sure it's inline to fit within the text flow */
+    }
+
+    /* Keyframes for the text animation */
+    @keyframes rainbow-text-animation {
+        0%, 100% {
+            filter: hue-rotate(0deg);
         }
-    .typing-effect {
-            font-size: 1.5em;
-            color: #333;
-            border-right: 2px solid;
-            white-space: nowrap;
-            overflow: hidden;
-            animation: typing 4s steps(30, end), blink-caret .5s step-end infinite alternate;
+        50% {
+            filter: hue-rotate(360deg);
         }
+    }
 </style>
 
 
@@ -108,9 +114,7 @@ title: About
     <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
 </div><br>
 
-<div class="neumorphic-card">
-        <p class="typing-effect">Hi! I'm Joseph, working in data, especially in viz and stats.</p>
-</div>
+<p class="hi-sentence">Hi! I'm Joseph, working in data, especially in viz and stats.</p>
 
 ***
 
