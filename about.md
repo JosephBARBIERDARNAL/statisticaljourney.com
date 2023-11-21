@@ -17,7 +17,11 @@ title: About
         text-decoration: none; /* Remove underline for the link */
         text-align: center;
     }
-
+    body {
+    background: linear-gradient(270deg, #e0e0e0, #f5f5f5, #e0e0e0);
+    background-size: 200% 200%;
+    animation: backgroundShift 15s ease infinite;
+    }
     .image-container img {
         max-width: 60%;
         height: auto;
@@ -50,31 +54,15 @@ title: About
             color: #b53e2c;
             text-decoration: none;
         }
-    .hi-sentence {
-        font-size: 24px; /* Adjust the font size */
-        font-weight: bold; /* Make it bold */
-        color: #1a1a1a; /* Set a dark color */
-        background-image: linear-gradient(45deg, #6e45e2, #88d3ce); /* Gradient background */
-        -webkit-background-clip: text; /* Clip the background to the text (for webkit browsers) */
-        background-clip: text; /* Clip the background to the text */
-        color: transparent; /* Make the text color transparent to show the background */
-        animation: rainbow-text-animation 5s ease-in-out infinite; /* Add an animation */
-        display: inline; /* Make sure it's inline to fit within the text flow */
-    }
-
-    /* Keyframes for the text animation */
-    @keyframes rainbow-text-animation {
-        0%, 100% {
-            filter: hue-rotate(0deg);
-        }
-        50% {
-            filter: hue-rotate(360deg);
-        }
+    @keyframes backgroundShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
     }
 </style>
 
 
-
+<body>
 
 
 
@@ -114,7 +102,7 @@ title: About
     <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
 </div><br>
 
-<p class="hi-sentence">Hi! I'm Joseph, working in data, especially in viz and stats.</p>
+<p>Hi! I'm Joseph, working in data, especially in viz and stats.</p>
 
 ***
 
@@ -209,7 +197,7 @@ title: About
 
 
 
-
+</body>
 
 
 
