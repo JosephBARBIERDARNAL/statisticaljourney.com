@@ -18,9 +18,9 @@ title: About
         text-align: center;
     }
     body {
-    background: linear-gradient(270deg, #e0e0e0, #f5f5f5, #e0e0e0);
-    background-size: 200% 200%;
-    animation: backgroundShift 15s ease infinite;
+        background: linear-gradient(270deg, #e0e0e0, #f5f5f5, blue);
+        background-size: 200% 200%;
+        animation: backgroundShift 15s ease infinite;
     }
     .image-container img {
         max-width: 60%;
@@ -46,18 +46,18 @@ title: About
       display: inline-block; /* Ensure the margin works correctly */
     }
     a {
-            color: #4a029c;
-            text-decoration: none; 
-            transition: color 0.3s;
+      color: #4a029c;
+      text-decoration: none; 
+      transition: color 0.3s;
     }
     a:hover {
-            color: #b53e2c;
-            text-decoration: none;
+      color: #b53e2c;
+      text-decoration: none;
         }
     @keyframes backgroundShift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
     }
 </style>
 
