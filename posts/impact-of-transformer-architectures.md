@@ -3,22 +3,8 @@ title: Impact of the transformer architecture
 author: Joseph Barbier
 layout: post
 ---
-<style>
-@keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-}
-
-.fade-in {
-    opacity: 0;
-    animation: fadeIn 1s ease-in forwards;
-    animation-delay: 0.3s;
-}
-</style>
 
 <br>
-
-<div class="fade-in">
 
 ## TLDR
 
@@ -108,5 +94,3 @@ The transformational impact that transformer architectures have had on NLP canno
 - Sutton, R. (2019). The bitter lesson. Incomplete Ideas (blog), 13(1).
 - Kuhn, T. S. (2012). The structure of scientific revolutions. University of Chicago press.
 - Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2023). Gpts are gpts: An early look at the labor market impact potential of large language models. arXiv preprint arXiv:2303.10130.
-
-</div> 
