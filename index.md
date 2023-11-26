@@ -46,8 +46,9 @@ title: Home
 ***
 <br>
 
-<p style="font-size: 25px;">This website is currently <strong>under construction</strong>. I am working on it to make it available as soon as possible.</p>
-<p style="font-size: 25px;">For the moment, you can check the <a href="about.html">about page</a> to know more about me and this website. Below, you can find some articles that I wrote. Many others have already been written and should be arriving soon!</p>
+<p style="font-size: 25px;">This site brings together various articles written by <a href="about.html">Joseph Barbier</a> on the subject of statistics and their relevance to everyday life.</p>
+<p style="font-size: 25px;">The articles are intended to be <strong>non-technical and narrative</strong>, to make them more enjoyable to read. Any feedback, whether on form or content, is highly appreciated. Send me a message on <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224/">LinkedIn</a> or at <a href="mailto:joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a>.</p>
+<p style="font-size: 25px;">You can check the <a href="about.html">about page</a> to know more about me and this website. Below, you can find the articles.</p>
 
 <br><br><br>
 
