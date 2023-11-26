@@ -3,7 +3,7 @@ title: Impact of the transformer architecture
 author: Joseph Barbier
 layout: post
 ---
-
+<style>
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(20px); }
     to { opacity: 1; transform: translateY(0); }
@@ -14,6 +14,7 @@ layout: post
     animation: fadeIn 1s ease-in forwards;
     animation-delay: 0.3s;
 }
+</style>
 
 <br>
 
