@@ -118,7 +118,7 @@ title: About
 ***
 <br>
 
-<p style="font-size: 23px;">I offer <strong>data analysis</strong> and <strong>data visualization</strong> services. I can help you to <strong>understand your data</strong> and create <strong>beautiful visualizations</strong>. Here are some examples of charts I made:</p>
+<p style="font-size: 23px;">I offer <strong>data analysis</strong> and <strong>data visualization</strong> services. I can help you to <strong>understand your data</strong> and create <strong>beautiful visualizations</strong>. Here are some examples of charts I made/reproduced:</p>
 
 
 
@@ -127,25 +127,25 @@ title: About
 <div class="image-container">
     <div>
         <a href="https://python-graph-gallery.com/web-line-chart-small-multiple/" target="_blank">
-            <img src="img/confidence.png" alt="Seaborn style">
+            <img src="img/confidence.png" alt="">
         </a>
         <p class="image-title">Evolution of consumer confidence in different countries</p>
     </div>
     <div>
         <a href="https://python-graph-gallery.com/web-ordered-mirror-barplot/" target="_blank">
-            <img src="img/erasmus.png" alt="Seaborn style">
+            <img src="img/erasmus.png" alt="">
         </a>
         <p class="image-title">In and outgoing students in the Erasmus program</p>
     </div>
     <div>
         <a href="https://python-graph-gallery.com" target="_blank">
-            <img src="img/america.png" alt="Seaborn style">
+            <img src="img/america.png" alt="">
         </a>
         <p class="image-title">Proportion of vote in each party, in each American State</p>
     </div>
     <div>
         <a href="https://python-graph-gallery.com/web-bubble-plot-with-annotations-and-custom-features/" target="_blank">
-            <img src="img/co2.png" alt="Seaborn style">
+            <img src="img/co2.png" alt="">
         </a>
         <p class="image-title">Relationship between vulnerability and readiness with CO2 emission per capita</p>
     </div>
