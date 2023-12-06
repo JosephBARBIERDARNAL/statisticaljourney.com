@@ -97,73 +97,19 @@ title: About
 <br>
 
 <p style="font-size: 23px;">
-    I'm really excited about <b>science and epistemology</b>. I love working in a technical environment
-    and I'm interested in perhaps anything that has anything to do with knowledge. I am particularly interested in topics such as: how statistics
-    allow us to make <b>inferences</b>, the impact of <b>large language models</b> and more generally data mining.
-    In my remaining free time, I do sport, read and spend time with my friends. 
-</p>
-
-<p style="font-size: 23px;">
-    I’m currently working part-time as a <strong>dataviz developer</strong> for the <a href="https://python-graph-gallery.com">Python</a>
-    and <a href="https://r-graph-gallery.com">R</a> Graph Galleries, in a <strong>master’s program</strong> in applied mathematics at Bordeaux University
-    and working on various <a href="projects.html">personal projects</a>.
-</p>
-
-
-
-<br><br><br>
-
-<div style="font-size: 30px; font-weight: bold;">Service</div>
-
-***
-<br>
-
-<p style="font-size: 23px;">I offer <strong>data analysis</strong> and <strong>data visualization</strong> services. I can help you to <strong>understand your data</strong> and create <strong>beautiful visualizations</strong>. Here are some examples of charts I made/reproduced:</p>
-
-
-
-<br>
-
-<div class="image-container">
-    <div>
-        <a href="https://python-graph-gallery.com/web-line-chart-small-multiple/" target="_blank">
-            <img src="img/confidence.png" alt="">
-        </a>
-        <p class="image-title">Evolution of consumer confidence in different countries</p>
-    </div>
-    <div>
-        <a href="https://python-graph-gallery.com/web-ordered-mirror-barplot/" target="_blank">
-            <img src="img/erasmus.png" alt="">
-        </a>
-        <p class="image-title">In and outgoing students in the Erasmus program</p>
-    </div>
-    <div>
-        <a href="https://python-graph-gallery.com" target="_blank">
-            <img src="img/america.png" alt="">
-        </a>
-        <p class="image-title">Proportion of vote in each party, in each American State</p>
-    </div>
-    <div>
-        <a href="https://python-graph-gallery.com/web-bubble-plot-with-annotations-and-custom-features/" target="_blank">
-            <img src="img/co2.png" alt="">
-        </a>
-        <p class="image-title">Relationship between vulnerability and readiness with CO2 emission per capita</p>
-    </div>
-</div>
-
-<br>
-
-<p style="font-size: 23px;">If that's something you're interested in, feel free to contact me at <a href="joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a> and I'd be happy to discuss it with you.</p>
-
-
-<br><br><br>
-
-
-
-
-
+    This website is the work of <a href="https://www.barbierjoseph.com" target="_blank">Joseph Barbier</a>.
+</p><br>
 
 <div style="font-size: 30px; font-weight: bold;">Contact</div>
+
+***
+
+<br>
+
+<p style="font-size: 23px;">Feel free to contact me at <a href="joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a> and I'd be happy to discuss it with you.</p>
+
+
+<br>
 
 ***
 <br>
