@@ -89,29 +89,13 @@ title: About
 
 <div style="display: flex; align-items: center;">
     <img src="img/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
-    <p style="font-size: 40px; font-weight: bold;">Joseph Barbier</p>
+    <p style="font-size: 26px; font-weight: bold;">This website is the work of <a href="https://www.barbierjoseph.com" target="_blank">Joseph Barbier</a></p>
 </div><br>
 
-***
-
-<br>
-
-<p style="font-size: 23px;">
-    This website is the work of <a href="https://www.barbierjoseph.com" target="_blank">Joseph Barbier</a>.
-</p><br>
-
-<div style="font-size: 30px; font-weight: bold;">Contact</div>
-
-***
-
-<br>
 
 <p style="font-size: 23px;">Feel free to contact me at <a href="joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a> and I'd be happy to discuss it with you.</p>
 
 
-<br>
-
-***
 <br>
 
 <div class="logo-container">
