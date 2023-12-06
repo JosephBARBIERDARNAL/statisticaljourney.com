@@ -86,6 +86,10 @@ title: About
 
 
 
+<p style="font-size: 40px; font-weight: bold;">About</p>
+
+***
+<br>
 
 <div style="display: flex; align-items: center;">
     <img src="img/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
