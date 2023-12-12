@@ -46,10 +46,8 @@ title: Home
 ***
 <br>
 
-<p style="font-size: 25px;">This site brings together various articles written by <a href="about.html">Joseph Barbier</a> on the subject of statistics and their relevance to everyday life.</p>
+<p style="font-size: 25px;">This site brings together various articles written by <a href="https://www.barbierjoseph.com/" target="_blank">Joseph Barbier</a> on the subject of statistics and their relevance to everyday life.</p>
 <p style="font-size: 25px;">The articles are intended to be <strong>non-technical and narrative</strong>, to make them more enjoyable to read. Any feedback, whether on form or content, is highly appreciated. Send me a message on <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224/">LinkedIn</a> or at <a href="mailto:joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a>.</p>
-<p style="font-size: 25px;">You can check the <a href="about.html">about page</a> to know more about me and this website. Below, you can find the articles.</p>
-
 <br><br><br>
 
 <p style="font-size: 40px; font-weight: bold;">Articles</p>

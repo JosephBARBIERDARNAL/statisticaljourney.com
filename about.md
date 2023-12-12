@@ -86,33 +86,21 @@ title: About
 
 
 
-<p style="font-size: 40px; font-weight: bold;">About</p>
+<p style="font-size: 40px; font-weight: bold;">Author</p>
 
 ***
 <br>
 
 <div style="display: flex; align-items: center;">
     <img src="img/joseph.png" alt="Joseph Barbier image" style="max-width:40%; height: auto; margin-right: 30px;">
-    <p style="font-size: 26px; font-weight: bold;">This website is the work of <a href="https://www.barbierjoseph.com" target="_blank">Joseph Barbier</a></p>
+    <p style="font-size: 22px;">This website is the work of <a href="https://www.barbierjoseph.com" target="_blank">Joseph Barbier</a>.<br>Feel free to contact me at <a href="joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a></p>
 </div><br>
 
 
-<p style="font-size: 23px;">Feel free to contact me at <a href="joseph.barbierdarnal@gmail.com">joseph.barbierdarnal@gmail.com</a> and I'd be happy to discuss it with you.</p>
+<p style="font-size: 23px;"></p>
 
 
-<br>
-
-<div class="logo-container">
-    <a href="https://www.linkedin.com/in/joseph-barbier-4ab531224">
-      <img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="64" height="64">
-    </a>
-    <a href="https://github.com/JosephBARBIERDARNAL">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="64" height="64">
-    </a>
-    <a href="mailto:joseph.barbierdarnal@gmail.com">
-      <img src="https://cdn-icons-png.flaticon.com/512/665/665072.png" width="64" height="64">
-    </a>
-  </div>
+<br><br>
 
 
 
