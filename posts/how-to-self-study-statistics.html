@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Statistical Journey is a blog with non-technical articles about statistics, epistemology, science, artificial intelligence, and data.">
+    <meta name="keywords" content="statistics, epistemology, science, artificial intelligence, data">
+    <meta name="author" content="Joseph Barbier">
+    <title>Statistical Journey</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <div id="header-container"></div>
+    <div class="container">
+        <div class="post-container">
+
+            <br><br><br>
+            <h2>How to self-study statistics (without it being boring)?</h2>
+            <p style="font-size: medium;"><i>Joseph Barbier, 02/21/2024 (last update)</i></p>
+            <p style="font-size: medium;"><i>8 minutes read</i></p><hr>
+            <p>At first, the goal of this website was to provide articles on statistical topics that have never (or not sufficiently) been detailed before. Now I also want to share my vision of statistics and how important it is, specifically for people who use/need statistics but are not statisticians. I want students to know why professors teach them statistics, policymakers to understand why the decision should be mostly based on reliable data and other people that it is important that they should not be fooled by mere numbers.</p>
+
+            <br><br><br>
+            <h3>START WITH THE BIG PICTURE</h3>
+            <p>I think the worst way to start learning statistics is to open a statistics book. A much more reasonable way would probably be to ask why we do statistics. This question is far from easy and cannot be answered in one or two sentences. So basically, if you don't know anything about statistics, find a youtuber (or equivalent) that you like who regularly talks about statistics and watch his videos. As French people, we have a lot of excellent content on Youtube on this topic (Science4All, Hygiène Mentale, Monsieur Phi, Risque alpha, Chat Sceptique…). In English, there are a lot of great Youtube channels, including 3Blue1Brown, Aperture or Veritasium.</p>
+            <p>I think this is the best place to start because it will give you a taste of what we can do with statistics and how useful they are for understanding the world. For example, probably the most interesting and understandable aspect of statistics is Bayesianism. Bayesianism offers a method for evaluating and modifying our beliefs that is really interesting. Personally, I use it literally every day, both in my head and in my language. If you understand French, I highly recommend that you watch the Hygiène Mentale videos on this topic, which are simply excellent.</p>
+            <p>In summary: start by watching some (general, non-technical) videos on stats to get an initial idea of why we use this tool.</p>
+
+            <br><br><br>
+            <h3>THINGS TO HAVE IN MIND</h3>
+            <p>I want you to know a few things about statistics before going any further.</p>
+            <p>
+                <ul>
+                    <li>Statistics are not really mathematics (and you don't need a lot of math to understand most of statistics). Especially when we talk about more conceptual things, like bayesianism and beliefs for example, we can work on a lot of things before needing math. It does not mean that statistics are not complex but only that doing stats is different from doing math.</li>
+                    <li>It's really easy to have the feeling that you fully understand something even if you don't in reality. You will probably have to revise basic things for a long time. Also remember not to swallow everything you are told with only a single number or two to back it up. The statement that say “you can make statistics say anything you want” is not true, but many people make numbers say things they don't say.</li>
+                    <li>Smart people are not less affected by cognitive bias related to statistics. Our intuition is really bad when thinking about statistics and there are so many examples who illustrate this. I highly recommend “Thinking, fast and slow” by Daniel Kahneman about this topic, as well as “Noise”, by the same author.</li>
+                </ul>
+            </p>
+
+            <br><br><br>
+            <h3>TWO DIFFERENT WAYS OF DOING STATS</h3>
+            <p>There are two types of people: those who do stats and those who don't. More seriously, it's important to see the difference between someone who uses stats as a topic and someone who uses stats as a tool. To give you an idea, you can find here a scientific paper of pure statistics and here a scientific paper which uses statistics but is not about stats. The first one proposes a solution of mean comparison when there is heteroskedasticity between the groups. You can see it's mostly math and really hard to understand if you are not comfortable with mathematics. The second is a study that examines the impact of protein intake on renal health.. What makes this paper not easy to read is not stats but mostly jargon and technical terms.</p>
+            <p>Pure statistics are mostly math (which I'm not a big fan of, but it is very useful in order to have a better understanding of stats) and everything else only uses statistics.</p>
+            <p>Once you know how to manipulate some tools, you can literally (really, literally) work on any topic.</p>
+            <p>PS: this guide is not made for pure statisticians (or rather mathematicians I should say) but I am confident saying that you will find at least one thing useful here. We will mainly focus on statistics as a tool.</p>
+
+            <br><br><br>
+            <h3>PRACTICE BEFORE THEORY</h3>
+            <p>Instead of working on theory and then putting it in practice, I consider as a best idea to do the opposite. What I did and what I recommend you to do is something like that: find a topic you are interested in and find a dataset about it (you can check on Kaggle for this). Once you do so, start R (best statistical software, especially for beginners) and let's do some stats. If you have absolutely no idea of what you can do, check the chapter 5 (others chapters are great too) of this book. A good start might be to calculate the mean and then the standard deviation. It is perfectly ok if you use another software/programming language.</p>
+            <p>If you work with a dataset about Covid, calculate the age of people who have covid, then only the ones who live in Germany, etc (it means you have to find out how to select only people from Germany). If you work on a dataset about real estate, check if the mean price is different between different regions. A cool (and easy!) thing to do is to create plots. In R, graphs are easy to do and give a lot of information (try these on your variables you are working in: hist(), plot(), boxplot() pie()). I don't give much information about how to do it because learning statistics is also learning how to learn statistics. You will learn how to do research when you want to do something but have absolutely no idea how. I'm pretty sure that struggling is an important part of learning.</p>
+
+            <br><br><br>
+            <h3>BEGIN A PROJECT</h3>
+            <p>The best way to learn new things is to need them and be forced to use them. This section should almost be an entire article on its own. So I will only give a few references on how to conduct an empirical project: this short (but excellent) article and Chapter 19 of this book. This chapter also covers topics such as literature review, finding good data, writing an article, etc. These things are, in my opinion, an important part of the project and are what legitimize you when you present it to someone else. Statistics are very important, but understanding what you are working on is at least as important. For example, if you are working on cancer, you need to know what type of cancer it is, what population, what researchers have already done on it, etc.</p>
+            <p>In addition to launching a project, you need to share your results. This will be very motivating and will give you the obligation to present your work properly. For this, I like to use Github. It is not easy to use at first, but it is also part of your training. If you don't quite see what kind of project I'm talking about, I'll give you some examples so you can get an idea:</p>
+            <p>
+                <ul>
+                    <li>The relationship between socioeconomic status and cancer</li>
+                    <li>The impact of Covid on market finance (S&P500, CAC40…)</li>
+                    <li>The relationship between the level of education of parents and the practice of sports in Europe</li>
+                    <li>Anything you want, as long as you have data and a question</li>
+                </ul>
+            </p>
+            <p>Keep in mind that there are data sets on probably almost every topic. And even if there is none in yours, create one. You can perfectly well collect data on the internet yourself to create your own dataset. This will give you the advantage of working with proprietary data that only you have access to (as well as develop new skills such as web-scrapping).</p>
+            <p>Another important advantage of doing a project by yourself is that it can really help your career. In real life, no one will ask you to know how to do this or that statistical test or exact regression in R. They will come to you with their problem and ask you for a solution. During your project, you will mainly be solving problems, fixing bugs, going backwards, correcting errors, etc. Having the ability to handle a wide variety of problems is an extremely important skill. Doing a project like this is probably the fastest way to progress on this type of skill, especially if you are not very experienced.</p>
+            <p>And to finish this section, having a project like this in your experience will make you able to tell a story about what you wanted to do, how you did it and how it turned out. That's very valuable and very nice to hear.</p>
+
+            <br><br><br>
+            <h3>AND AFTER?</h3>
+            <p>In practice, your project will probably never be completely finished. But when you feel that you have done what you wanted to do and you have published your results, you can say that this is the end of your project. Now you repeat everything you did: keep watching videos, start a new project (preferably with different statistical tools: if in your first project you only use frequentist statistics, maybe you can try bayesian statistics now). However, you also want to do this: read books (technicals but not only), take certifications (examples: Kaggle, Coursera…), have discussions with other people (statisticians or just people who want to have a better understanding of statistics like you) to see if you really understand. If you don't know anyone who is interested in statistics, you can go to forums to meet people that way. There are a lot of people who are very interesting and you can learn a lot from. I've made friends that way.</p>
+            <p>If you want to go deeper into the theory, I highly recommend that you start reading an “academic” book on statistics. However, since it takes a lot of discipline to finish this type of book, try to find someone you can read it with. For example, you can read one chapter a week (or month…) and call each other on Sunday afternoon to discuss what you didn't fully understand. Not all “academic” books are fun to read, but some are more fun than others, which is why I give you my recommendations at the end of this article.</p>
+
+            <br><br><br>
+            <h3>RECOMMENDATIONS</h3>
+            <p>Forum:
+                <ul>
+                    <li>Towards data science</li>
+                    <li>Kaggle</li>
+                    <li>Wolfram, section Statistics and Probability</li>
+                </ul>
+            </p>
+            <p>Non-technical book:
+                <ul>
+                    <li>“Black Swans: The Impact of the Highly Improbable”, by Nassim N. Taleb (2007)</li>
+                    <li>“Thinking, fast and slow”, by Daniel Kahneman (2011)</li>
+                    <li>“Noise: A flow in human judgment”, by Daniel Kahneman, Olivier Sibony and Cass Sunstein (2021)</li>
+                </ul>
+            </p>
+            <p>Technical book:
+                <ul>
+                    <li>“Doing bayesian data analysis”, by John Kruschke (2014)</li>
+                    <li>“All of statistics” Larry Wasserman (2010)</li>
+                </ul>
+            </p>
+
+            <br><br><br>
+            <h3>CLOSING REMARKS</h3>
+            <p>By doing statistics on your own, you will probably make a lot of mistakes, but that's not a big problem because that's what will make you grow the most. But it's important that you don't just do stats that don't make any sense. In order to detect them, I recommend you to share it with people who are good in statistics (forums or discords are great for this, as well as books and internet in general). Ask if it's ok to do this statistical test with this objective, this type of variable, etc. You probably have a lot of things to learn from others.</p>
+            <p>I truly believe that statistics is one of the most important tools to master when it comes to understanding the world we live in. Our intuition is often very bad when it comes to probabilities and statistics. Statistics give us much more information than raw data and are probably much more accessible than it appears from the outside.</p>
+            <p>I really hope you enjoyed this article as much as I enjoyed writing it. If you have any suggestions/questions, please feel free to contact me by e-mail: joseph.barbierdarnal@gmail.com.</p>
+
+        </div>
+    </div>
+    <div id="footer-container"></div>
+    <script src="../script/loadHeaderFooter.js"></script>
+</body>
+</html>
