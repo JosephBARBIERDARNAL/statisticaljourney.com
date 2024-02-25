@@ -1,3 +1,3 @@
 # Statistical Journey
 
-[Statistical Journey](https://www.statisticaljourney.com/)
+See the website: [Statistical Journey](https://www.statisticaljourney.com/)
