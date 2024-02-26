@@ -66,7 +66,7 @@ div.header-container a:hover {
 .image-row {
     display: flex;
     justify-content: space-around;
-    margin-bottom: 70px; /* Espace entre les lignes */
+    margin-bottom: 70px; 
 }
 .image-container :not(.post-container) {
     margin-bottom: -10px;
@@ -80,8 +80,8 @@ div.header-container a:hover {
     cursor: pointer;
 }
 .image-container img {
-    width: 100%; /* Ajuste la largeur de l'image à celle du conteneur */
-    height: auto; /* Garde le ratio de l'image */
+    width: 100%; 
+    height: auto;
     border: 4px solid var(--main-link-color);
     border-radius: 10px;
     padding: 20px;
@@ -92,6 +92,11 @@ div.header-container a:hover {
 }
 div.image-container p {
     font-size: 16px;
+}
+div.credit img {
+    max-width:40%;
+    height: auto;
+    margin-right: 30px;
 }
 
 
@@ -138,4 +143,59 @@ nav ul li a:hover {
     padding: 20px 0;
     text-align: center;
     margin-top: 160px;
+}
+
+
+
+
+/* MEDIA QUERIES */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    .header-container {
+        padding: 60px 20px;
+    }
+    .title {
+        font-size: 30px;
+    }
+    nav ul {
+        padding-right: 20px;
+    }
+    nav ul li a {
+        font-size: 20px;
+    }
+    .footer-container {
+        margin-top: 40px;
+    }
+    .image-container {
+        width: 30%;
+    }
+    div.image-container p {
+        font-size: 14px;
+    }
+    div.image-container h3 {
+        font-size: 18px;
+    }
+    div.credit p {
+        font-size: 14px;
+        flex-wrap: wrap;
+    }
+    div.credit img {
+        margin-right: 12px;
+        max-width: 30%;
+    }
+    div.post-container p{
+        text-align: left;
+        font-size: 18px;
+    }
+    div.post-container h2{
+        font-size: 30px;
+    }
+    div.post-container h3{
+        font-size: 24px;
+    }
+    div.post-container li {
+        font-size: 18px;
+    }
 }
