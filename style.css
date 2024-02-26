@@ -149,7 +149,7 @@ nav ul li a:hover {
 
 
 /* MEDIA QUERIES */
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     .container {
         width: 90%;
     }
