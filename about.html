@@ -8,13 +8,16 @@
     <meta name="author" content="Joseph Barbier">
     <title>Statistical Journey</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 
 <body>
+
+    <div id="particles-js"></div>
     <div id="header-container"></div>
     <div class="container">
 
-        <br><br><br>
+        <br><br><br><br><br><br>
         <h1>What is the Statistical Journey</h1><hr>
         <p>Whether in artificial intelligence, philosophy, social sciences, physics and probably many other fields, statistics are indispensable. I am convinced that statistics, in the broadest sense of the term, is an indispensable tool to master when one is interested in understanding the world. You don't need to be an expert in mathematics, but only to develop this intuition and this way of reasoning.</p>
         <p>On this website I decided to put non-technical articles about statistics, in the broadest possible sense. The goal of these articles is to facilitate the work of those who need to understand and use data analysis tools as well as participate in the development of a culture of statistics.</p>
@@ -32,5 +35,12 @@
     </div>
     <div id="footer-container"></div>
     <script src="script/loadHeaderFooter.js"></script>
+    <script src="script/particles-config.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            initializeParticles('particles-js');
+        });
+    </script>
+
 </body>
 </html>
