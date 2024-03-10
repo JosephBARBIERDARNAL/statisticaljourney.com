@@ -8,9 +8,11 @@
     <meta name="author" content="Joseph Barbier">
     <title>Statistical Journey</title>
     <link rel="stylesheet" href="../style.css">
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 
 <body>
+    <div id="particles-js"></div>
     <div id="header-container"></div>
     <div class="container">
         <div class="post-container">
@@ -61,5 +63,11 @@
     </div>
     <div id="footer-container"></div>
     <script src="../script/loadHeaderFooter.js"></script>
+    <script src="../script/particles-config.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            initializeParticles('particles-js');
+        });
+    </script>
 </body>
 </html>
