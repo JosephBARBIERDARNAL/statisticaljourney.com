@@ -5,7 +5,7 @@
     --main-bg-color: #000000;
     --main-text-color: #fff;
     --main-link-color: #f5caa5;
-    --main-link-hover-color: #f58157;
+    --main-link-hover-color: #f96934;
     --main-header-footer-color: var(--main-bg-color);
 }
 body {
@@ -40,22 +40,28 @@ a:hover:not(.header-container){
     text-decoration: none;
     color: var(--main-link-hover-color);
 }
-.title {
+.title a {
     text-decoration: none;
     color: var(--main-text-color);
     transition: color 0.3s ease;
 }
-.title:hover {
+.title a:hover {
     text-decoration: none;
-    color: rgb(244, 243, 243);
+    color: rgb(233, 232, 232);
 }
-nav ul li a {
+.nav a {
     font-size: 30px;
     font-weight: bolder;
     border: 2px solid var(--main-text-color);
     border-radius: 10px;
     padding: 10px;
     color: var(--main-text-color);
+    transition: color 0.5s ease;
+    transition: background-color 0.5s ease;
+}
+.nav a:hover {
+    color: var(--main-bg-color);
+    background-color: var(--main-text-color);
 }
 
 
