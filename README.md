@@ -8,7 +8,7 @@ This minimalist site brings together **non-technical and narrative** articles on
 
 ## Contributions
 
-- I'm currently looking for **content feedback**, especially from people who have worked with statistics. If you think you're a good match, open an [issue](https://github.com/JosephBARBIERDARNAL/statisticaljourney.com/issues).
+- I'm currently looking for **content feedback**, especially from people who have worked with statistics. If you think you're a good match, open an [issue](https://github.com/JosephBARBIERDARNAL/statisticaljourney.com/issues) with your thoughts.
 
 - If you want to **add you own article** or **improve an existing one**, you can open a [pull request](https://github.com/JosephBARBIERDARNAL/statisticaljourney.com/pulls). If you don't know how to do that, you can also open an [issue](https://github.com/JosephBARBIERDARNAL/statisticaljourney.com/issues) explaining what you want to do and I'll help you.
 
