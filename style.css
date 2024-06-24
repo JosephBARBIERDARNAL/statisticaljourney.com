@@ -10,7 +10,7 @@
 }
 body {
     color: var(--main-text-color);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Helvetica, Geneva, sans-serif;
 }
 .container {
     width: 60%;
