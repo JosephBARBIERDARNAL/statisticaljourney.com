@@ -1,81 +1,217 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta property="og:image" content="https://raw.githubusercontent.com/JosephBARBIERDARNAL/statisticaljourney.com/main/img/interview.png">
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:width" content="1024">
-    <meta property="og:image:height" content="1024">
+  <head>
+    <meta
+      property="og:image"
+      content="https://raw.githubusercontent.com/JosephBARBIERDARNAL/statisticaljourney.com/main/img/interview.png"
+    />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1024" />
+    <meta property="og:image:height" content="1024" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.statisticaljourney.com/"/>
+    <meta property="og:url" content="https://www.statisticaljourney.com/" />
     <meta property="og:title" content="Statistical Journey" />
-    <meta property="og:description" content="This minimalist site brings together non-technical and narrative articles on the subject of statistics and their relevance to everyday life." />
+    <meta
+      property="og:description"
+      content="This minimalist site brings together non-technical and narrative articles on the subject of statistics and their relevance to everyday life."
+    />
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-G78R0W5L8D"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-G78R0W5L8D"
+    ></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-        gtag('config', 'G-G78R0W5L8D');
+      gtag("config", "G-G78R0W5L8D");
     </script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Statistical Journey is a blog with non-technical articles about statistics, epistemology, science, artificial intelligence, and data.">
-    <meta name="keywords" content="statistics, epistemology, science, artificial intelligence, data">
-    <meta name="author" content="Joseph Barbier">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Statistical Journey is a blog with non-technical articles about statistics, epistemology, science, artificial intelligence, and data."
+    />
+    <meta
+      name="keywords"
+      content="statistics, epistemology, science, artificial intelligence, data"
+    />
+    <meta name="author" content="Joseph Barbier" />
     <title>Statistical Journey</title>
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../style.css" />
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-</head>
+  </head>
 
-<body>
+  <body>
     <div id="particles-js"></div>
     <div id="header-container"></div>
     <div class="container">
-        <div class="post-container">
+      <div class="post-container">
+        <br /><br /><br />
+        <h2>Why you should be careful when doing statistics</h2>
+        <p style="font-size: medium">
+          <i>Joseph Barbier, 02/21/2024 (last update)</i>
+        </p>
+        <p style="font-size: medium"><i>5 minutes read</i></p>
+        <hr />
+        <p>
+          This article explains why every statistical calculation should be done
+          for specific, well-defined reasons. In other words, you need to know
+          why you are doing this test in this situation, why you are using this
+          regression, what your calculations really mean, and more generally,
+          why you're doing what you're doing. If this seems obvious or
+          irrelevant to you, you probably don't realize how easy it is to get
+          statistics wrong. But don't worry, I'll give you all the details you
+          need here. Note: this article will not discuss the importance of how
+          the data was collected, even though it is at least as important as our
+          current topic. We assume here that you fully understand the data you
+          are working with.
+        </p>
 
-            <br><br><br>
-            <h2>Why you should be careful when doing statistics</h2>
-            <p style="font-size: medium;"><i>Joseph Barbier, 02/21/2024 (last update)</i></p>
-            <p style="font-size: medium;"><i>5 minutes read</i></p><hr>
-            <p>This article explains why every statistical calculation should be done for specific, well-defined reasons. In other words, you need to know why you are doing this test in this situation, why you are using this regression, what your calculations really mean, and more generally, why you're doing what you're doing. If this seems obvious or irrelevant to you, you probably don't realize how easy it is to get statistics wrong. But don't worry, I'll give you all the details you need here. Note: this article will not discuss the importance of how the data was collected, even though it is at least as important as our current topic. We assume here that you fully understand the data you are working with.</p>
+        <br /><br /><br />
+        <h3>TLDR</h3>
+        <p>
+          Even for a simple comparison of means, you need to understand well
+          what you're doing. Depending on what you want to do, you have to find
+          the tool that fits your issue best. However, there is no magic way to
+          be sure of the sense of what you are doing. One way of it would be to:
+          be aware of the data type, the distribution of your sample, your
+          sample size, define clearly what hypothesis you want to test etc. You
+          should also always check the documentation of the software you are
+          using. The tool you need is determined by the problem you are working
+          on: make sure you understand the latter.
+        </p>
 
-            <br><br><br>
-            <h3>TLDR</h3>
-            <p>Even for a simple comparison of means, you need to understand well what you're doing. Depending on what you want to do, you have to find the tool that fits your issue best. However, there is no magic way to be sure of the sense of what you are doing. One way of it would be to: be aware of the data type, the distribution of your sample, your sample size, define clearly what hypothesis you want to test etc. You should also always check the documentation of the software you are using. The tool you need is determined by the problem you are working on: make sure you understand the latter.</p>
+        <br /><br /><br />
+        <h3>WHAT IS STATISTICS?</h3>
+        <p>
+          Wikipedia defines statistics as "the discipline concerned with the
+          collection, organization, analysis, interpretation, and presentation
+          of data". More generally, statistics uses mathematics and probability
+          theory to study random variables (the word "random" should be
+          interpreted with caution). We try to answer questions such as: Is it
+          more likely to be diagnosed with cancer if I am a smoker or not? Does
+          inflation depend on European wheat consumption? What is the impact of
+          taking an extra mg of this drug?
+        </p>
+        <p>
+          In order to answer these questions, we (humans) have invented
+          mathematical tools. Thanks to them, we can now calculate the
+          probability of occurrence of a phenomenon, make inferences in the real
+          world and amplify the amount of information we have access to through
+          our data.
+        </p>
+        <p>
+          However, this tool is far from perfect (which is why it is not so easy
+          to find a general solution to a specific problem) and needs to be
+          understood. Otherwise, there is a very high probability that your
+          calculations will not make sense (even if it does look like it!).
+          Statistics are complex, but that is also what makes them powerful and
+          interesting. It is much better to use basic statistical tools that you
+          understand than fancy modeling tools that require a high level of
+          knowledge.
+        </p>
 
-            <br><br><br>
-            <h3>WHAT IS STATISTICS?</h3>
-            <p>Wikipedia defines statistics as "the discipline concerned with the collection, organization, analysis, interpretation, and presentation of data". More generally, statistics uses mathematics and probability theory to study random variables (the word "random" should be interpreted with caution). We try to answer questions such as: Is it more likely to be diagnosed with cancer if I am a smoker or not? Does inflation depend on European wheat consumption? What is the impact of taking an extra mg of this drug?</p>
-            <p>In order to answer these questions, we (humans) have invented mathematical tools. Thanks to them, we can now calculate the probability of occurrence of a phenomenon, make inferences in the real world and amplify the amount of information we have access to through our data.</p>
-            <p>However, this tool is far from perfect (which is why it is not so easy to find a general solution to a specific problem) and needs to be understood. Otherwise, there is a very high probability that your calculations will not make sense (even if it does look like it!). Statistics are complex, but that is also what makes them powerful and interesting. It is much better to use basic statistical tools that you understand than fancy modeling tools that require a high level of knowledge.</p>
+        <br /><br /><br />
+        <h3>USE THE RIGHT TOOL FOR THE RIGHT PROBLEM</h3>
+        <p>
+          When we do statistics, we want to answer a question, not just do
+          random calculations. Each statistical construct works for a specific
+          situation: you need to know which one is yours.
+        </p>
+        <p>
+          If you want to compare the mean of a variable between two groups, you
+          can use the Student's t test, for example. But there are many
+          different versions of this test, depending on the situation you are
+          in. Are the groups paired? Do they have the same variance? Is the
+          distribution non-Gaussian? There are solutions if you are in one of
+          these cases (respectively: Student's paired sample test, Welch's test,
+          non-parametric tests), but statistical software cannot tell you if
+          your calculations are not correct (it just does the math). This means
+          that you have to know what you're doing.
+        </p>
+        <p>
+          As you can see, even for a simple comparison of means, you have to be
+          careful. Also, the tools you use must be determined based on your
+          problem. Since different tools can be useful in the same situation,
+          you need to find the one that is most relevant. If you want to know if
+          smokers are more likely to get cancer, don't use a complex machine
+          learning algorithm but rather an odd ratio. Simple tools can perfectly
+          give us all the information we are looking for: be parsimonious.
+          Complex tools are useless and irrelevant when not used properly. For
+          this reason, try to use the simplest thing possible to answer your
+          question / solve your problem.
+        </p>
 
-            <br><br><br>
-            <h3>USE THE RIGHT TOOL FOR THE RIGHT PROBLEM</h3>
-            <p>When we do statistics, we want to answer a question, not just do random calculations. Each statistical construct works for a specific situation: you need to know which one is yours.</p>
-            <p>If you want to compare the mean of a variable between two groups, you can use the Student's t test, for example. But there are many different versions of this test, depending on the situation you are in. Are the groups paired? Do they have the same variance? Is the distribution non-Gaussian? There are solutions if you are in one of these cases (respectively: Student's paired sample test, Welch's test, non-parametric tests), but statistical software cannot tell you if your calculations are not correct (it just does the math). This means that you have to know what you're doing.</p>
-            <p>As you can see, even for a simple comparison of means, you have to be careful. Also, the tools you use must be determined based on your problem. Since different tools can be useful in the same situation, you need to find the one that is most relevant. If you want to know if smokers are more likely to get cancer, don't use a complex machine learning algorithm but rather an odd ratio. Simple tools can perfectly give us all the information we are looking for: be parsimonious. Complex tools are useless and irrelevant when not used properly. For this reason, try to use the simplest thing possible to answer your question / solve your problem.</p>
+        <br /><br /><br />
+        <h3>HOW TO KNOW IF YOU'RE DOING IT RIGHT?</h3>
+        <p>
+          Let's say you do your calculations and make sure that everything is
+          under control (i.e: there are no random elements in your work).
+          Knowing that it is impossible to know everything, how can you know if
+          everything is correct? Unfortunately, there is no magic solution to
+          this problem, but I do have some advice.
+        </p>
+        <p>
+          For probably almost every test, regression, model etc. there are
+          application conditions. It's impossible to be exhaustive but here are
+          the most important ones you need to be aware of: Type of data: are you
+          working on qualitative variables? quantitative? images? other?
+          Depending on the answer, you will not use the same thing. Distribution
+          of variables: contrary to what is taught in university, in most
+          situations the data are not Gaussian. You cannot ignore this
+          information in your calculations unless you use non-parametric tools.
+          Sample size: the number of people in your sample has a lot of impact
+          (statistical power) and if it is too small, there are things you can't
+          do. What hypothesis you want to test And many others...
+        </p>
+        <p>
+          More generally, unless you are doing your calculations by hand (which
+          is not recommended), check the documentation for the function you are
+          using and make sure you understand what is going on. Also, you should
+          be very careful with interpretation. For example, if your p-value is
+          below a fixed threshold, it does not mean that this drug is effective
+          for that condition. It only means that what you observed in the
+          treated group can be considered unlikely (depending on your threshold)
+          and that we need another hypothesis than "this drug has no effect" to
+          explain the situation. This emphasizes the importance of knowing the
+          context of our data (in this case: is our study protocol of good
+          quality or not?) Also, it doesn't give us any information about the
+          effect size (it only shows that there is probably an effect)! You need
+          to do more calculations if you want to know how effective this drug
+          is.
+        </p>
+        <p>
+          And finally, ask people who know more than you do. Show them your work
+          and you'll probably be very surprised at how many little (or larger)
+          details are wrong, and that's not a problem at all. This is one of the
+          things that will make you learn the most and save a lot of time in the
+          long run, because you will necessarily make mistakes. What matters is
+          that you know it as soon as possible.
+        </p>
 
-            <br><br><br>
-            <h3>HOW TO KNOW IF YOU'RE DOING IT RIGHT?</h3>
-            <p>Let's say you do your calculations and make sure that everything is under control (i.e: there are no random elements in your work). Knowing that it is impossible to know everything, how can you know if everything is correct? Unfortunately, there is no magic solution to this problem, but I do have some advice.
-            <p>For probably almost every test, regression, model etc. there are application conditions. It's impossible to be exhaustive but here are the most important ones you need to be aware of: Type of data: are you working on qualitative variables? quantitative? images? other? Depending on the answer, you will not use the same thing. Distribution of variables: contrary to what is taught in university, in most situations the data are not Gaussian. You cannot ignore this information in your calculations unless you use non-parametric tools. Sample size: the number of people in your sample has a lot of impact (statistical power) and if it is too small, there are things you can't do. What hypothesis you want to test And many others...</p> 
-            <p>More generally, unless you are doing your calculations by hand (which is not recommended), check the documentation for the function you are using and make sure you understand what is going on. Also, you should be very careful with interpretation. For example, if your p-value is below a fixed threshold, it does not mean that this drug is effective for that condition. It only means that what you observed in the treated group can be considered unlikely (depending on your threshold) and that we need another hypothesis than "this drug has no effect" to explain the situation. This emphasizes the importance of knowing the context of our data (in this case: is our study protocol of good quality or not?) Also, it doesn't give us any information about the effect size (it only shows that there is probably an effect)! You need to do more calculations if you want to know how effective this drug is.</p>
-            <p>And finally, ask people who know more than you do. Show them your work and you'll probably be very surprised at how many little (or larger) details are wrong, and that's not a problem at all. This is one of the things that will make you learn the most and save a lot of time in the long run, because you will necessarily make mistakes. What matters is that you know it as soon as possible.</p>
-
-            <br><br><br>
-            <h3>CLOSING REMARKS</h3>
-            <p>Statistics are a very useful, but imperfect, human invention and cannot be used in any random way. The tool you need is determined by the problem you are working on. Make sure you understand what you are doing with your calculations so that you don't do things that don't make sense. Interpret the result in the right way. Ask people to help you and correct your mistakes.</p>
-
-        </div>
+        <br /><br /><br />
+        <h3>CLOSING REMARKS</h3>
+        <p>
+          Statistics are a very useful, but imperfect, human invention and
+          cannot be used in any random way. The tool you need is determined by
+          the problem you are working on. Make sure you understand what you are
+          doing with your calculations so that you don't do things that don't
+          make sense. Interpret the result in the right way. Ask people to help
+          you and correct your mistakes.
+        </p>
+      </div>
     </div>
     <div id="footer-container"></div>
     <script src="../script/loadHeaderFooter.js"></script>
     <script src="../script/particles-config.js"></script>
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            initializeParticles('particles-js');
-        });
+      document.addEventListener("DOMContentLoaded", function () {
+        initializeParticles("particles-js");
+      });
     </script>
-</body>
+  </body>
 </html>
